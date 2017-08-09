@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nathan Y",
+	"home_page_url": "http://nnnnnathan.micro.blog/",
+	"feed_url": "http://nnnnnathan.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html",
+	      	
+			"content_html": "<p><a href=\"https://constellation-studios.net/blog/color-woodcut-workshop-great-success/\">Photos from the Color Woodcut Printmaking workshop</a> at <a href=\"http://constellation-studios.net\">Constellation Studios</a> last week.</p>\n",
+			"date_published": "2017-08-02T08:31:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/31/second-print-from.html",
+	      	
+			"content_html": "<p>Second print from my time at  @constellationstudios this week. Two block reduction woodcut. I’m beat and content from five days of printmaking. #relief #printmaking #woodcut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/f748a065e0.jpg\" width=\"600\" height=\"512\" /></p>\n",
+			"date_published": "2017-07-30T19:27:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/30/second-print-from.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html",
+	      	
+			"content_html": "<p>I’m in Nebraska this week participating in the Color Woodcut Printmaking at @constellationstudios today. I finished my first project today. Pretty pleased with the overall result, especially since I don’t normally do abstract. Thanks to @robsnyderorigami  for the crease pattern that formed the foundation for this piece. #printmaking #relief #foldandprint #woodcut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2017-07-28T19:30:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/28/im-in-nebraska.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/29/turns-out-you.html",
+	      	
+			"content_html": "<p>Turns out you can get a blister on the <em>back</em> of your first knuckle from carving blocks for printmaking. Yay. </p>\n",
+			"date_published": "2017-07-28T18:17:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/28/turns-out-you.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html",
+	      	
+			"content_html": "<p>Some more practice from this weekend. #printmaking #relief #linocut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/96e71c2ded.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-07-26T05:10:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html",
+	      	
+			"content_html": "<p>Jorge knows reading is fundamental.</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/6890e870f2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-07-26T05:07:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/first-day-of.html",
+	      	
+			"content_html": "<p>First day of color woodcut printmaking class at <a href=\"https://constellation-studios.net\">Constellation Studio</a>; feels like the first day of school. #printmaking </p>\n",
+			"date_published": "2017-07-26T04:59:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/26/first-day-of.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/19/tfw-youre-trying.html",
+	      	
+			"content_html": "<p>TFW you’re trying to fix an inconsistency, find &amp; fix a bug, only to realize that if that’s the only bug it would have been broken everywhere.</p>\n",
+			"date_published": "2017-07-19T09:06:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/19/tfw-youre-trying.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/15/really-appreciating-the.html",
+	      	
+			"content_html": "<p>Really appreciating the new #microblog universal app.</p>\n",
+			"date_published": "2017-07-15T09:04:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/07/15/really-appreciating-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/06/08/my-bet-is.html",
+	      	
+			"content_html": "<p>“My bet is that self-talk works best on problems where you’re trying to stay on task and there are possible distractions,” Mr. Lupyan said. “For tasks with a multistep sequence, talking to yourself out loud can help you keep out distractions and remind yourself where you are.” <a href=\"https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html\">The Benefits of Talking to Yourself</a></p>\n",
+			"date_published": "2017-06-08T16:46:00-07:00",
+			"url": "http://nnnnnathan.micro.blog/2017/06/08/my-bet-is.html"
+		}
+		
+	]
+}
