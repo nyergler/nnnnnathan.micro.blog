@@ -38,7 +38,7 @@ defaults:
     values:
       layout:       "post"
 
-title: "Nathan Y"
+title: "Nathan"
 tagline: ""
 description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
 credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
@@ -48,11 +48,11 @@ markdown: "kramdown"
 username: "nnnnnathan"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Nathan Y"
-name: "Nathan Y"
+author: "Nathan"
+name: "Nathan"
 gravatar_hash: "75dc81420807523b4bdd266160b92e84"
 avatar: "https://www.gravatar.com/avatar/75dc81420807523b4bdd266160b92e84?s=160"
-full_name: "Nathan Y"
+full_name: "Nathan"
 bio: ""
 twitter_username: "nyergler"
 github_username: "nyergler"
