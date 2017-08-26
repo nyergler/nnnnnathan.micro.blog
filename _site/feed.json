@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/26/do-your-research.html",
+	      	
+			"content_html": "<p>“Do your research online. Create offline.” <a href=\"https://chris.bolin.co/offline/\">chris.bolin.co/offline/</a></p>\n",
+			"date_published": "2017-08-26T08:28:00-07:00",
+			"url": "http://status.yergler.net/2017/08/26/do-your-research.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/08/17/reduction-printing-explained.html",
 	      	
 			"content_html": "<p>Reduction printing explained visually: <a href=\"https://www.yergler.net/2017/08/16/reduction-printing-explained-visually/\">www.yergler.net/2017/08/1…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’m in Nebraska this week participating in the Color Woodcut Printmaking at @constellationstudios today. I finished my first project today. Pretty pleased with the overall result, especially since I don’t normally do abstract. Thanks to @robsnyderorigami  for the crease pattern that formed the foundation for this piece. #printmaking #relief #foldandprint #woodcut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg\" width=\"600\" height=\"449\" /></p>\n",
 			"date_published": "2017-07-28T19:30:00-07:00",
 			"url": "http://status.yergler.net/2017/07/28/im-in-nebraska.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/07/29/turns-out-you.html",
-	      	
-			"content_html": "<p>Turns out you can get a blister on the <em>back</em> of your first knuckle from carving blocks for printmaking. Yay. </p>\n",
-			"date_published": "2017-07-28T18:17:00-07:00",
-			"url": "http://status.yergler.net/2017/07/28/turns-out-you.html"
 		}
 		
 	]
