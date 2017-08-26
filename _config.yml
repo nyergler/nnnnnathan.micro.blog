@@ -40,8 +40,8 @@ defaults:
 
 title: "Nathan"
 tagline: ""
-description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+description: "Follow <a href=\"https://micro.blog/nnnnnathan\">@nnnnnathan on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/nnnnnathan\">@nnnnnathan on Micro.blog</a>."
 baseurl: ""
 url: "http://status.yergler.net"
 markdown: "kramdown"
