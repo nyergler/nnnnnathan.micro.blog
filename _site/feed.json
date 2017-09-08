@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/08/released-an-update.html",
+	      	
+			"content_html": "<p>Released an update to <a href=\"http://hieroglyph.io\">Hieroglyph</a> yesterday, fixing compatibility with <a href=\"http://sphinx-doc.org\">Sphinx</a> 1.6. Happy that the majority of the changes came from others. </p>\n",
+			"date_published": "2017-09-08T08:35:00-07:00",
+			"url": "http://status.yergler.net/2017/09/08/released-an-update.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html",
 	      	
 			"content_html": "<p>Discovered Versioneer yesterday, basically exactly how I always wanted Python version tagging to work. <a href=\"https://github.com/warner/python-versioneer\">github.com/warner/py…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Observed at hair salon: patron trying to explain bitcoin startups to very bored looking stylist. </p>\n",
 			"date_published": "2017-08-11T08:24:00-07:00",
 			"url": "http://status.yergler.net/2017/08/11/observed-at-hair.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/08/09/spent-yesterday-evening.html",
-	      	
-			"content_html": "<p>Spent yesterday evening exploring TypeScript and WebExtensions. Tinkering like it’s 2004. <a href=\"https://github.com/nyergler/typescript-react-redux-webext\">github.com/nyergler/…</a></p>\n",
-			"date_published": "2017-08-09T08:16:00-07:00",
-			"url": "http://status.yergler.net/2017/08/09/spent-yesterday-evening.html"
 		}
 		
 	]
