@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html",
+	      	
+			"content_html": "<p>Discovered Versioneer yesterday, basically exactly how I always wanted Python version tagging to work. <a href=\"https://github.com/warner/python-versioneer\">github.com/warner/py…</a></p>\n",
+			"date_published": "2017-09-08T08:30:00-07:00",
+			"url": "http://status.yergler.net/2017/09/08/discovered-versioneer-yesterday.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/09/05/still-questions-over.html",
 	      	
 			"content_html": "<p>Still questions, over two years later. <a href=\"http://www.whatswrongwithmadeline.com/questions/\">www.whatswrongwithmadeline.com/questions…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Spent yesterday evening exploring TypeScript and WebExtensions. Tinkering like it’s 2004. <a href=\"https://github.com/nyergler/typescript-react-redux-webext\">github.com/nyergler/…</a></p>\n",
 			"date_published": "2017-08-09T08:16:00-07:00",
 			"url": "http://status.yergler.net/2017/08/09/spent-yesterday-evening.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html",
-	      	
-			"content_html": "<p><a href=\"https://constellation-studios.net/blog/color-woodcut-workshop-great-success/\">Photos from the Color Woodcut Printmaking workshop</a> at <a href=\"http://constellation-studios.net\">Constellation Studios</a> last week.</p>\n",
-			"date_published": "2017-08-02T08:31:00-07:00",
-			"url": "http://status.yergler.net/2017/08/02/photos-from-the.html"
 		}
 		
 	]
