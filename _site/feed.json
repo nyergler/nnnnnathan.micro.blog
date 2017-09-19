@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/19/in-hours-ill.html",
+	      	
+			"content_html": "<p>In 24 hours I’ll be an uncle again. Woah. </p>\n",
+			"date_published": "2017-09-19T16:50:00-07:00",
+			"url": "http://status.yergler.net/2017/09/19/in-hours-ill.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/09/19/really-enjoying-procreate.html",
 	      	
 			"content_html": "<p>Really enjoying Procreate 4. Huge, free upgrade. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Reduction printing explained visually: <a href=\"https://www.yergler.net/2017/08/16/reduction-printing-explained-visually/\">www.yergler.net/2017/08/1…</a></p>\n",
 			"date_published": "2017-08-16T19:08:00-07:00",
 			"url": "http://status.yergler.net/2017/08/16/reduction-printing-explained.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html",
-	      	
-			"content_html": "<p>Work in progress from the studio this weekend, homage to Matisse’s “Seated Pink Nude”. Reduction linocut print with selective inking. Hoping to get it finished this week! \nLoving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s Gray and we’ll have all my faves. \n#wip #linocut #printmaking #relief #matisse #color #layering</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2017/163d5ecf3e.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-14T18:30:00-07:00",
-			"url": "http://status.yergler.net/2017/08/14/work-in-progress.html"
 		}
 		
 	]
