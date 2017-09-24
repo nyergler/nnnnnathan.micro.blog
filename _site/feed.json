@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/24/163632.html",
+	      	
+			"content_html": "<p>🌯👶🏻</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2017/f47d30b953.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-24T09:36:00-07:00",
+			"url": "http://status.yergler.net/2017/09/24/163632.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/09/19/in-hours-ill.html",
 	      	
 			"content_html": "<p>In 24 hours I’ll be an uncle again. Woah. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“Do your research online. Create offline.” <a href=\"https://chris.bolin.co/offline/\">chris.bolin.co/offline/</a></p>\n",
 			"date_published": "2017-08-26T08:28:00-07:00",
 			"url": "http://status.yergler.net/2017/08/26/do-your-research.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/08/17/reduction-printing-explained.html",
-	      	
-			"content_html": "<p>Reduction printing explained visually: <a href=\"https://www.yergler.net/2017/08/16/reduction-printing-explained-visually/\">www.yergler.net/2017/08/1…</a></p>\n",
-			"date_published": "2017-08-16T19:08:00-07:00",
-			"url": "http://status.yergler.net/2017/08/16/reduction-printing-explained.html"
 		}
 		
 	]
