@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/03/anohnis-hopelessness-is.html",
+	      	
+			"content_html": "<p>Anohni’s “Hopelessness” is the album I have on repeat these days. It keeps feeling more timely.</p>\n",
+			"date_published": "2017-10-03T10:44:00-07:00",
+			"url": "http://status.yergler.net/2017/10/03/anohnis-hopelessness-is.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/09/24/163632.html",
 	      	
 			"content_html": "<p>🌯👶🏻</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2017/f47d30b953.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>If wearing sweatpants in public means I’ve given up on life, I should have given up much sooner.</p>\n",
 			"date_published": "2017-09-05T12:47:00-07:00",
 			"url": "http://status.yergler.net/2017/09/05/if-wearing-sweatpants.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/08/26/do-your-research.html",
-	      	
-			"content_html": "<p>“Do your research online. Create offline.” <a href=\"https://chris.bolin.co/offline/\">chris.bolin.co/offline/</a></p>\n",
-			"date_published": "2017-08-26T08:28:00-07:00",
-			"url": "http://status.yergler.net/2017/08/26/do-your-research.html"
 		}
 		
 	]
