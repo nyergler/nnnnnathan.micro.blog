@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/05/listening-to-the.html",
+	      	
+			"content_html": "<p>Listening to “The Art of Destroying Software”. <a href=\"https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software\">maximilianhoffmann.com/talks/pro…</a></p>\n",
+			"date_published": "2017-10-05T16:50:00-07:00",
+			"url": "http://status.yergler.net/2017/10/05/listening-to-the.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/10/04/resurrected-some-python.html",
 	      	
 			"content_html": "<p>Resurrected some Python + Unicode training material I put together 5 years ago. A little scary that it’s still mostly relevant. <a href=\"http://static.yergler.net/bytes-chars-codecs-strings/\">static.yergler.net/bytes-cha…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Discovered Versioneer yesterday, basically exactly how I always wanted Python version tagging to work. <a href=\"https://github.com/warner/python-versioneer\">github.com/warner/py…</a></p>\n",
 			"date_published": "2017-09-08T08:30:00-07:00",
 			"url": "http://status.yergler.net/2017/09/08/discovered-versioneer-yesterday.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/09/05/still-questions-over.html",
-	      	
-			"content_html": "<p>Still questions, over two years later. <a href=\"http://www.whatswrongwithmadeline.com/questions/\">www.whatswrongwithmadeline.com/questions…</a></p>\n",
-			"date_published": "2017-09-05T12:47:00-07:00",
-			"url": "http://status.yergler.net/2017/09/05/still-questions-over.html"
 		}
 		
 	]
