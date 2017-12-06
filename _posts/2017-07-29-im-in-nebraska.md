@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-28 19:30 -0700
+date: 2017-07-28 18:30 -0800
 guid: http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html
 ---
 I'm in Nebraska this week participating in the Color Woodcut Printmaking at @constellationstudios today. I finished my first project today. Pretty pleased with the overall result, especially since I don't normally do abstract. Thanks to @robsnyderorigami  for the crease pattern that formed the foundation for this piece. #printmaking #relief #foldandprint #woodcut
