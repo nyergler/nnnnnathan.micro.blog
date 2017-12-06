@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-14 18:30 -0700
+date: 2017-08-14 17:30 -0800
 guid: http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html
 ---
 Work in progress from the studio this weekend, homage to Matisse's "Seated Pink Nude". Reduction linocut print with selective inking. Hoping to get it finished this week! 
