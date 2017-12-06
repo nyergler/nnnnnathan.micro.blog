@@ -4,14 +4,23 @@
     <title>Nathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Fri, 17 Nov 2017 10:21:29 -0800</pubDate>
-    <lastBuildDate>Fri, 17 Nov 2017 10:21:29 -0800</lastBuildDate>
+    <pubDate>Wed, 06 Dec 2017 15:56:22 -0800</pubDate>
+    <lastBuildDate>Wed, 06 Dec 2017 15:56:22 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;TIL that if you’re trying to use #rust and #webassembly together, you [seemingly] can’t pass parameters if you don’t build with &lt;code&gt;--release&lt;/code&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Dec 2017 15:56:00 -0800</pubDate>
+        <link>http://status.yergler.net/2017/12/06/til-that-if.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/12/06/til-that-if.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;It’d be great if the iOS micro.blog app paged in more timeline posts as you scroll, &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt;. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Nov 2017 11:21:00 -0700</pubDate>
+        <pubDate>Fri, 17 Nov 2017 10:21:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/11/17/itd-be-great.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/11/17/itd-be-great.html</guid>
       </item>
@@ -20,7 +29,7 @@
       	
         <description>&lt;p&gt;Heading to Las Vegas for a long weekend with family. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Nov 2017 11:20:00 -0700</pubDate>
+        <pubDate>Fri, 17 Nov 2017 10:20:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/11/17/heading-to-las.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/11/17/heading-to-las.html</guid>
       </item>
@@ -29,7 +38,7 @@
       	
         <description>&lt;p&gt;I’ve had my reMarkable table for about 24 hours now; hardware is great, software is close, best GPL compliance I’ve seen. &lt;a href=&quot;http://remarkable.com&quot;&gt;remarkable.com&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Oct 2017 14:09:00 -0700</pubDate>
+        <pubDate>Wed, 11 Oct 2017 13:09:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/10/11/ive-had-my.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/10/11/ive-had-my.html</guid>
       </item>
@@ -38,7 +47,7 @@
       	
         <description>&lt;p&gt;Listening to “The Art of Destroying Software”. &lt;a href=&quot;https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software&quot;&gt;maximilianhoffmann.com/talks/pro…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Oct 2017 16:50:00 -0700</pubDate>
+        <pubDate>Thu, 05 Oct 2017 15:50:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/10/05/listening-to-the.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/10/05/listening-to-the.html</guid>
       </item>
@@ -47,7 +56,7 @@
       	
         <description>&lt;p&gt;Resurrected some Python + Unicode training material I put together 5 years ago. A little scary that it’s still mostly relevant. &lt;a href=&quot;http://static.yergler.net/bytes-chars-codecs-strings/&quot;&gt;static.yergler.net/bytes-cha…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 Oct 2017 15:54:00 -0700</pubDate>
+        <pubDate>Wed, 04 Oct 2017 14:54:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/10/04/resurrected-some-python.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/10/04/resurrected-some-python.html</guid>
       </item>
@@ -56,7 +65,7 @@
       	
         <description>&lt;p&gt;Anohni’s “Hopelessness” is the album I have on repeat these days. It keeps feeling more timely.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Oct 2017 10:44:00 -0700</pubDate>
+        <pubDate>Tue, 03 Oct 2017 09:44:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/10/03/anohnis-hopelessness-is.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/10/03/anohnis-hopelessness-is.html</guid>
       </item>
@@ -67,7 +76,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2017/f47d30b953.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 24 Sep 2017 09:36:00 -0700</pubDate>
+        <pubDate>Sun, 24 Sep 2017 08:36:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/24/163632.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/24/163632.html</guid>
       </item>
@@ -76,7 +85,7 @@
       	
         <description>&lt;p&gt;In 24 hours I’ll be an uncle again. Woah. &lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Sep 2017 16:50:00 -0700</pubDate>
+        <pubDate>Tue, 19 Sep 2017 15:50:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/19/in-hours-ill.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/19/in-hours-ill.html</guid>
       </item>
@@ -85,7 +94,7 @@
       	
         <description>&lt;p&gt;Really enjoying Procreate 4. Huge, free upgrade. &lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Sep 2017 15:25:00 -0700</pubDate>
+        <pubDate>Tue, 19 Sep 2017 14:25:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/19/really-enjoying-procreate.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/19/really-enjoying-procreate.html</guid>
       </item>
@@ -94,7 +103,7 @@
       	
         <description>&lt;p&gt;Finally got around to writing about how we did Product Engineering at Remind: &lt;a href=&quot;https://www.yergler.net/2017/09/11/on-product-engineering/&quot;&gt;www.yergler.net/2017/09/1…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Sep 2017 09:31:00 -0700</pubDate>
+        <pubDate>Mon, 11 Sep 2017 08:31:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/11/finally-got-around.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/11/finally-got-around.html</guid>
       </item>
@@ -103,7 +112,7 @@
       	
         <description>&lt;p&gt;Saw Patti Cake$ over the weekend. Fun mashup of film formulas, enjoyable despite any predictability.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Sep 2017 08:55:00 -0700</pubDate>
+        <pubDate>Mon, 11 Sep 2017 07:55:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/11/saw-patti-cake.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/11/saw-patti-cake.html</guid>
       </item>
@@ -112,7 +121,7 @@
       	
         <description>&lt;p&gt;Released an update to &lt;a href=&quot;http://hieroglyph.io&quot;&gt;Hieroglyph&lt;/a&gt; yesterday, fixing compatibility with &lt;a href=&quot;http://sphinx-doc.org&quot;&gt;Sphinx&lt;/a&gt; 1.6. Happy that the majority of the changes came from others. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 Sep 2017 08:35:00 -0700</pubDate>
+        <pubDate>Fri, 08 Sep 2017 07:35:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/08/released-an-update.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/08/released-an-update.html</guid>
       </item>
@@ -121,7 +130,7 @@
       	
         <description>&lt;p&gt;Discovered Versioneer yesterday, basically exactly how I always wanted Python version tagging to work. &lt;a href=&quot;https://github.com/warner/python-versioneer&quot;&gt;github.com/warner/py…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 Sep 2017 08:30:00 -0700</pubDate>
+        <pubDate>Fri, 08 Sep 2017 07:30:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/08/discovered-versioneer-yesterday.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html</guid>
       </item>
@@ -130,7 +139,7 @@
       	
         <description>&lt;p&gt;Still questions, over two years later. &lt;a href=&quot;http://www.whatswrongwithmadeline.com/questions/&quot;&gt;www.whatswrongwithmadeline.com/questions…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 Sep 2017 12:47:00 -0700</pubDate>
+        <pubDate>Tue, 05 Sep 2017 11:47:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/05/still-questions-over.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/05/still-questions-over.html</guid>
       </item>
@@ -139,7 +148,7 @@
       	
         <description>&lt;p&gt;If wearing sweatpants in public means I’ve given up on life, I should have given up much sooner.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 Sep 2017 12:47:00 -0700</pubDate>
+        <pubDate>Tue, 05 Sep 2017 11:47:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/09/05/if-wearing-sweatpants.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/05/if-wearing-sweatpants.html</guid>
       </item>
@@ -148,7 +157,7 @@
       	
         <description>&lt;p&gt;“Do your research online. Create offline.” &lt;a href=&quot;https://chris.bolin.co/offline/&quot;&gt;chris.bolin.co/offline/&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Aug 2017 08:28:00 -0700</pubDate>
+        <pubDate>Sat, 26 Aug 2017 07:28:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/26/do-your-research.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/26/do-your-research.html</guid>
       </item>
@@ -157,7 +166,7 @@
       	
         <description>&lt;p&gt;Reduction printing explained visually: &lt;a href=&quot;https://www.yergler.net/2017/08/16/reduction-printing-explained-visually/&quot;&gt;www.yergler.net/2017/08/1…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Aug 2017 19:08:00 -0700</pubDate>
+        <pubDate>Wed, 16 Aug 2017 18:08:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/16/reduction-printing-explained.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/17/reduction-printing-explained.html</guid>
       </item>
@@ -170,7 +179,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
 
 &lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2017/163d5ecf3e.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 18:30:00 -0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 17:30:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/14/work-in-progress.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html</guid>
       </item>
@@ -179,7 +188,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;As someone who still has 5.25” floppies of Brøderbund’s Print Shop, Print Shop Companion, etc, interesting to think about when my expectations around software upgrades changed.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 14:37:00 -0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 13:37:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/14/as-someone-who.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/14/as-someone-who.html</guid>
       </item>
@@ -188,7 +197,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Ulysses is my go-to app for writing. They &lt;a href=&quot;https://www.ulyssesapp.com/blog/&quot;&gt;announced&lt;/a&gt; they’re going SAAS, and &lt;a href=&quot;https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd&quot;&gt;their explanation&lt;/a&gt; feels transparent and honest.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 14:33:00 -0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 13:33:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/14/ulysses-is-my.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/14/ulysses-is-my.html</guid>
       </item>
@@ -197,7 +206,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Observed at hair salon: patron trying to explain bitcoin startups to very bored looking stylist. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Aug 2017 08:24:00 -0700</pubDate>
+        <pubDate>Fri, 11 Aug 2017 07:24:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/11/observed-at-hair.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/11/observed-at-hair.html</guid>
       </item>
@@ -206,7 +215,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Spent yesterday evening exploring TypeScript and WebExtensions. Tinkering like it’s 2004. &lt;a href=&quot;https://github.com/nyergler/typescript-react-redux-webext&quot;&gt;github.com/nyergler/…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 Aug 2017 08:16:00 -0700</pubDate>
+        <pubDate>Wed, 09 Aug 2017 07:16:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/09/spent-yesterday-evening.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/09/spent-yesterday-evening.html</guid>
       </item>
@@ -215,7 +224,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;&lt;a href=&quot;https://constellation-studios.net/blog/color-woodcut-workshop-great-success/&quot;&gt;Photos from the Color Woodcut Printmaking workshop&lt;/a&gt; at &lt;a href=&quot;http://constellation-studios.net&quot;&gt;Constellation Studios&lt;/a&gt; last week.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Aug 2017 08:31:00 -0700</pubDate>
+        <pubDate>Wed, 02 Aug 2017 07:31:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/02/photos-from-the.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html</guid>
       </item>
@@ -226,7 +235,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
 
 &lt;p&gt;&lt;img src=&quot;http://nnnnnathan.micro.blog/uploads/2017/f748a065e0.jpg&quot; width=&quot;600&quot; height=&quot;512&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Jul 2017 19:27:00 -0700</pubDate>
+        <pubDate>Sun, 30 Jul 2017 18:27:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/30/second-print-from.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/31/second-print-from.html</guid>
       </item>
@@ -237,7 +246,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
 
 &lt;p&gt;&lt;img src=&quot;http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg&quot; width=&quot;600&quot; height=&quot;449&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Jul 2017 19:30:00 -0700</pubDate>
+        <pubDate>Fri, 28 Jul 2017 18:30:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/28/im-in-nebraska.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html</guid>
       </item>
@@ -246,7 +255,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Turns out you can get a blister on the &lt;em&gt;back&lt;/em&gt; of your first knuckle from carving blocks for printmaking. Yay. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Jul 2017 18:17:00 -0700</pubDate>
+        <pubDate>Fri, 28 Jul 2017 17:17:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/28/turns-out-you.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/29/turns-out-you.html</guid>
       </item>
@@ -257,7 +266,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
 
 &lt;p&gt;&lt;img src=&quot;http://nnnnnathan.micro.blog/uploads/2017/96e71c2ded.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Jul 2017 05:10:00 -0700</pubDate>
+        <pubDate>Wed, 26 Jul 2017 04:10:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/26/some-more-practice.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html</guid>
       </item>
@@ -268,7 +277,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
 
 &lt;p&gt;&lt;img src=&quot;http://nnnnnathan.micro.blog/uploads/2017/6890e870f2.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Jul 2017 05:07:00 -0700</pubDate>
+        <pubDate>Wed, 26 Jul 2017 04:07:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/26/jorge-knows-reading.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html</guid>
       </item>
@@ -277,7 +286,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;First day of color woodcut printmaking class at &lt;a href=&quot;https://constellation-studios.net&quot;&gt;Constellation Studio&lt;/a&gt;; feels like the first day of school. #printmaking &lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Jul 2017 04:59:00 -0700</pubDate>
+        <pubDate>Wed, 26 Jul 2017 03:59:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/26/first-day-of.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/26/first-day-of.html</guid>
       </item>
@@ -286,7 +295,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;TFW you’re trying to fix an inconsistency, find &amp;amp; fix a bug, only to realize that if that’s the only bug it would have been broken everywhere.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 19 Jul 2017 09:06:00 -0700</pubDate>
+        <pubDate>Wed, 19 Jul 2017 08:06:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/19/tfw-youre-trying.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/19/tfw-youre-trying.html</guid>
       </item>
@@ -295,7 +304,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Really appreciating the new #microblog universal app.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 15 Jul 2017 09:04:00 -0700</pubDate>
+        <pubDate>Sat, 15 Jul 2017 08:04:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/07/15/really-appreciating-the.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/07/15/really-appreciating-the.html</guid>
       </item>
@@ -304,7 +313,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;“My bet is that self-talk works best on problems where you’re trying to stay on task and there are possible distractions,” Mr. Lupyan said. “For tasks with a multistep sequence, talking to yourself out loud can help you keep out distractions and remind yourself where you are.” &lt;a href=&quot;https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html&quot;&gt;The Benefits of Talking to Yourself&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Jun 2017 16:46:00 -0700</pubDate>
+        <pubDate>Thu, 08 Jun 2017 15:46:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/06/08/my-bet-is.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/06/08/my-bet-is.html</guid>
       </item>
@@ -313,7 +322,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Turns out my swearing and muttering while working is just part of my process. &lt;a href=&quot;https://www.nytimes.com/2017/06/08/smarter-living/benefits-of-talking-to-yourself-self-talk.html&quot;&gt;www.nytimes.com/2017/06/0…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Jun 2017 16:45:00 -0700</pubDate>
+        <pubDate>Thu, 08 Jun 2017 15:45:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/06/08/turns-out-my.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/06/08/turns-out-my.html</guid>
       </item>
@@ -322,7 +331,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;Deja vu last night talking to a friend about HLS and WebRTC; I &lt;em&gt;swear&lt;/em&gt; I listened to a podcast about that recently, but can’t figure out what it was. #dejavu #curiosity&lt;/p&gt;
 </description>
-        <pubDate>Wed, 31 May 2017 09:28:00 -0700</pubDate>
+        <pubDate>Wed, 31 May 2017 08:28:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/05/31/deja-vu-last.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/05/31/deja-vu-last.html</guid>
       </item>
@@ -331,7 +340,7 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
       	
         <description>&lt;p&gt;After 4 years in the oven, a new release of Tut is available. I &lt;a href=&quot;https://www.yergler.net/blog/2017/04/30/technical-documentation-with-tut/&quot;&gt;wrote about&lt;/a&gt; what I was trying to accomplish, what took so long, and how I finally just gave up and started writing.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2017 10:14:00 -0700</pubDate>
+        <pubDate>Sun, 30 Apr 2017 09:14:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/04/30/after-years-in.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/04/30/after-years-in.html</guid>
       </item>
