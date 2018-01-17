@@ -1,34 +1,3 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
-# - markdown: kramdown
-
-# Navigation
-nav:
-  - # - name:           "About"
-    href:           "/about/"
-  - # - name:           "RSS"
-    href:           "/feed.xml"
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
 
 title: "Nathan"
 tagline: ""
