@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/17/really-interesting-to.html",
+	      	
+			"content_html": "<p>Really interesting to see how people are using #Rust macros for code generation. Latest example: <a href=\"https://www.ncameron.org/blog/a-proof-of-concept-graphql-server-framework-for-rust/\">GraphQL Schemas</a></p>\n",
+			"date_published": "2018-01-17T08:55:00-08:00",
+			"url": "http://status.yergler.net/2018/01/17/really-interesting-to.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2017/12/06/til-that-if.html",
 	      	
 			"content_html": "<p>TIL that if you’re trying to use #rust and #webassembly together, you [seemingly] can’t pass parameters if you don’t build with <code>--release</code>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>In 24 hours I’ll be an uncle again. Woah. </p>\n",
 			"date_published": "2017-09-19T15:50:00-08:00",
 			"url": "http://status.yergler.net/2017/09/19/in-hours-ill.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/09/19/really-enjoying-procreate.html",
-	      	
-			"content_html": "<p>Really enjoying Procreate 4. Huge, free upgrade. </p>\n",
-			"date_published": "2017-09-19T14:25:00-08:00",
-			"url": "http://status.yergler.net/2017/09/19/really-enjoying-procreate.html"
 		}
 		
 	]
