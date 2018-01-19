@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html",
+	      	
+			"content_html": "<p>Republished my thought <a href=\"https://medium.com/@nyergler/on-product-engineering-fc415360e5d5\">On Product Engineering</a> to Medium; it’ll be interesting to see how response differs from when I posted to my personal blog.</p>\n",
+			"date_published": "2018-01-19T12:16:00-08:00",
+			"url": "http://status.yergler.net/2018/01/19/republished-my-thought.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/01/19/just-read-the.html",
 	      	
 			"content_html": "<p>Just read <a href=\"https://daringfireball.net/2018/01/dean_allen\">the news</a> of Dean Allen’s passing. I remember what a revelation Textpattern was in what feels like another lifetime.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’ve had my reMarkable table for about 24 hours now; hardware is great, software is close, best GPL compliance I’ve seen. <a href=\"http://remarkable.com\">remarkable.com</a></p>\n",
 			"date_published": "2017-10-11T13:09:00-08:00",
 			"url": "http://status.yergler.net/2017/10/11/ive-had-my.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/10/05/listening-to-the.html",
-	      	
-			"content_html": "<p>Listening to “The Art of Destroying Software”. <a href=\"https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software\">maximilianhoffmann.com/talks/pro…</a></p>\n",
-			"date_published": "2017-10-05T15:50:00-08:00",
-			"url": "http://status.yergler.net/2017/10/05/listening-to-the.html"
 		}
 		
 	]
