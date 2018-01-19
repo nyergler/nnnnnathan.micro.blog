@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/just-read-the.html",
+	      	
+			"content_html": "<p>Just read <a href=\"https://daringfireball.net/2018/01/dean_allen\">the news</a> of Dean Allen’s passing. I remember what a revelation Textpattern was in what feels like another lifetime.</p>\n",
+			"date_published": "2018-01-19T09:31:00-08:00",
+			"url": "http://status.yergler.net/2018/01/19/just-read-the.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/01/19/picked-up-john.html",
 	      	
 			"content_html": "<p>Picked up John Green’s 📚 “Turtles All the Way Down” two days ago; stayed up an extra hour last night reading. This is why I love YA novels.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Listening to “The Art of Destroying Software”. <a href=\"https://maximilianhoffmann.com/talks/programming/the-art-of-destroying-software\">maximilianhoffmann.com/talks/pro…</a></p>\n",
 			"date_published": "2017-10-05T15:50:00-08:00",
 			"url": "http://status.yergler.net/2017/10/05/listening-to-the.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/10/04/resurrected-some-python.html",
-	      	
-			"content_html": "<p>Resurrected some Python + Unicode training material I put together 5 years ago. A little scary that it’s still mostly relevant. <a href=\"http://static.yergler.net/bytes-chars-codecs-strings/\">static.yergler.net/bytes-cha…</a></p>\n",
-			"date_published": "2017-10-04T14:54:00-08:00",
-			"url": "http://status.yergler.net/2017/10/04/resurrected-some-python.html"
 		}
 		
 	]
