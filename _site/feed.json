@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/picked-up-john.html",
+	      	
+			"content_html": "<p>Picked up John Green’s 📚 “Turtles All the Way Down” two days ago; stayed up an extra hour last night reading. This is why I love YA novels.</p>\n",
+			"date_published": "2018-01-19T08:45:00-08:00",
+			"url": "http://status.yergler.net/2018/01/19/picked-up-john.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/01/19/decided-to-disable.html",
 	      	
 			"content_html": "<p>Decided to disable Twitter cross-posting for a while. Even though I’m a <em>very</em> light user, I found myself thinking about followers there when I had the impulse to post to micro.blog. It might be better if I could let go of that, but posting is better than not posting <em>for me</em>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Resurrected some Python + Unicode training material I put together 5 years ago. A little scary that it’s still mostly relevant. <a href=\"http://static.yergler.net/bytes-chars-codecs-strings/\">static.yergler.net/bytes-cha…</a></p>\n",
 			"date_published": "2017-10-04T14:54:00-08:00",
 			"url": "http://status.yergler.net/2017/10/04/resurrected-some-python.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/10/03/anohnis-hopelessness-is.html",
-	      	
-			"content_html": "<p>Anohni’s “Hopelessness” is the album I have on repeat these days. It keeps feeling more timely.</p>\n",
-			"date_published": "2017-10-03T09:44:00-08:00",
-			"url": "http://status.yergler.net/2017/10/03/anohnis-hopelessness-is.html"
 		}
 		
 	]
