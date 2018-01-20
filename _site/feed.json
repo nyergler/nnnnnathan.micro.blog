@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/20/how-to-read.html",
+	      	
+			"content_html": "<p>How to read on the web in 2018. <a href=\"http://mashable.com/2017/12/27/browser-bar-url-facebook-bad/\">mashable.com/2017/12/2…</a></p>\n",
+			"date_published": "2018-01-19T16:29:00-08:00",
+			"url": "http://status.yergler.net/2018/01/19/how-to-read.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html",
 	      	
 			"content_html": "<p>Republished my thought <a href=\"https://medium.com/@nyergler/on-product-engineering-fc415360e5d5\">On Product Engineering</a> to Medium; it’ll be interesting to see how response differs from when I posted to my personal blog.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Heading to Las Vegas for a long weekend with family. </p>\n",
 			"date_published": "2017-11-17T10:20:00-08:00",
 			"url": "http://status.yergler.net/2017/11/17/heading-to-las.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2017/10/11/ive-had-my.html",
-	      	
-			"content_html": "<p>I’ve had my reMarkable table for about 24 hours now; hardware is great, software is close, best GPL compliance I’ve seen. <a href=\"http://remarkable.com\">remarkable.com</a></p>\n",
-			"date_published": "2017-10-11T13:09:00-08:00",
-			"url": "http://status.yergler.net/2017/10/11/ive-had-my.html"
 		}
 		
 	]
