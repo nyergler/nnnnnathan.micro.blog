@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2018-01-23 13:12 -0800
+guid: http://nnnnnathan.micro.blog/2018/01/23/just-finished-turtles.html
+---
+Just finished 📚 "Turtles All the Way Down”. Feeling unexpectedly moved by the act of closing it, like I'm leaving behind a place I would like to stay.
