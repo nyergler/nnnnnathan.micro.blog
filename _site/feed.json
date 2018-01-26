@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/26/jo-waltons-beautiful.html",
+	      	
+			"content_html": "<p>Jo Walton’s <a href=\"https://www.tor.com/2018/01/24/bright-the-hawks-flight-in-the-empty-sky-ursula-k-le-guin/\">beautiful eulogy for Le Guin</a>.</p>\n\n<blockquote>\n  <p>“I emailed to say [her writing] was an inspiration, and she told me to get on with my writing, then. I did.”</p>\n</blockquote>\n\n",
+			"date_published": "2018-01-26T13:12:00-08:00",
+			"url": "http://status.yergler.net/2018/01/26/jo-waltons-beautiful.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/01/26/204101.html",
 	      	
 			"content_html": "<p><a href=\"https://iwantmyname.com/blog/i-miss-blogrolls\">Chris misses blogrolls</a>. So do I. When I was starting to sew back in October, a few “old school” blogs with sewing blog rolls offered great starting points. </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>How to read on the web in 2018. <a href=\"http://mashable.com/2017/12/27/browser-bar-url-facebook-bad/\">mashable.com/2017/12/2…</a></p>\n",
 			"date_published": "2018-01-19T16:29:00-08:00",
 			"url": "http://status.yergler.net/2018/01/19/how-to-read.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html",
-	      	
-			"content_html": "<p>Republished my thought <a href=\"https://medium.com/@nyergler/on-product-engineering-fc415360e5d5\">On Product Engineering</a> to Medium; it’ll be interesting to see how response differs from when I posted to my personal blog.</p>\n",
-			"date_published": "2018-01-19T12:16:00-08:00",
-			"url": "http://status.yergler.net/2018/01/19/republished-my-thought.html"
 		}
 		
 	]
