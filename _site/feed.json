@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/05/silent-retreat.html",
+	      	
+			"title": "Silent Retreat 2018",
+			
+			"content_html": "<p><img src=\"http://status.yergler.net/uploads/2018/f5458dcc63.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/0350239bc0.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/ebe4f02fd8.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/2b8405412f.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/e1d98ed1df.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/eba198c9ec.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/96f8b3e2d2.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/d6b54a56c5.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></p>\n\n<p>I spent the weekend in silence at Four Springs retreat center with 19 other members of my spiritual community. As always a sweet, challenging time of disconnection, reflection, nature, and art. </p>\n\n",
+			"date_published": "2018-02-05T08:43:00-08:00",
+			"url": "http://status.yergler.net/2018/02/05/silent-retreat.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/02/02/awesome-seeing-wxpython.html",
 	      	
 			"content_html": "<p>Awesome seeing <a href=\"https://wxpython.org/news/wxpython-4.0.0-release/\">wxPython 4.0</a> released today. I built several things for <a href=\"http://creativecommons.org\">CC</a> using wxPython, happy to see that it’s carried on.</p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p>Great post on <a href=\"http://www.pathsensitive.com/2018/01/the-design-of-software-is-thing-apart.html\">software design</a>. Software specs are funny things; they only have long-term value if followed. Seems like it should go without saying, but…</p>\n",
 			"date_published": "2018-01-20T12:09:00-08:00",
 			"url": "http://status.yergler.net/2018/01/20/great-post-on.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/01/20/im-a-downhill.html",
-	      	
-			"content_html": "<p>“I’m a downhill skier. I get to the bottom. Once I’ve gotten to the end I do a lot of rewriting. I start rewriting from the front while I’m still writing at the back, just to remind myself what I’ve written.” – <a href=\"https://www.theguardian.com/books/2018/jan/20/margaret-atwood-i-am-not-a-prophet-science-fiction-is-about-now\">Margaret Atwood</a> on writing</p>\n",
-			"date_published": "2018-01-20T09:39:00-08:00",
-			"url": "http://status.yergler.net/2018/01/20/im-a-downhill.html"
 		}
 		
 	]
