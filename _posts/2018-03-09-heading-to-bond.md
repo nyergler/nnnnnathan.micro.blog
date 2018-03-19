@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-09 09:32 -0800
 guid: http://nnnnnathan.micro.blog/2018/03/09/heading-to-bond.html
 ---
