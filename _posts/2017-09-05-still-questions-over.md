@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-05 11:47 -0800
 guid: http://nnnnnathan.micro.blog/2017/09/05/still-questions-over.html
 ---
