@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-04-30 09:14 -0800
 guid: http://nnnnnathan.micro.blog/2017/04/30/after-years-in.html
 ---
