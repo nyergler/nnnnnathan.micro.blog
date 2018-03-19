@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-17 10:21 -0800
 guid: http://nnnnnathan.micro.blog/2017/11/17/itd-be-great.html
 ---
