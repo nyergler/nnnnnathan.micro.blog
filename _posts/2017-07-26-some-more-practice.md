@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-26 04:10 -0800
 guid: http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html
 ---
