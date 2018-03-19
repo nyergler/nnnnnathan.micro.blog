@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-19 08:44 -0800
 guid: http://nnnnnathan.micro.blog/2018/01/19/decided-to-disable.html
 ---
