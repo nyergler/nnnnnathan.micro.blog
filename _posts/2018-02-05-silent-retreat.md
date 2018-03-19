@@ -2,6 +2,7 @@
 layout: post
 title: "Silent Retreat 2018"
 microblog: false
+audio: 
 date: 2018-02-05 08:43 -0800
 guid: http://nnnnnathan.micro.blog/2018/02/05/silent-retreat.html
 ---
