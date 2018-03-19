@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-19 12:16 -0800
 guid: http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html
 ---
