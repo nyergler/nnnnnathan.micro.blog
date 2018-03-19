@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-08 07:30 -0800
 guid: http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html
 ---
