@@ -2,6 +2,7 @@
 layout: post
 title: "Attention"
 microblog: false
+audio: 
 date: 2018-02-09 09:28 -0800
 guid: http://nnnnnathan.micro.blog/2018/02/09/attention.html
 ---
