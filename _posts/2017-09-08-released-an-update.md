@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-08 07:35 -0800
 guid: http://nnnnnathan.micro.blog/2017/09/08/released-an-update.html
 ---
