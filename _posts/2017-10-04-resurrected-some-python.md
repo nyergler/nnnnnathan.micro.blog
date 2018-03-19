@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-04 14:54 -0800
 guid: http://nnnnnathan.micro.blog/2017/10/04/resurrected-some-python.html
 ---
