@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-07-30 18:27 -0800
 guid: http://nnnnnathan.micro.blog/2017/07/31/second-print-from.html
 ---
