@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-26 13:12 -0800
 guid: http://nnnnnathan.micro.blog/2018/01/26/jo-waltons-beautiful.html
 ---
