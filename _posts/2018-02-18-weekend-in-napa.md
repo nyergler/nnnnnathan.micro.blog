@@ -2,6 +2,7 @@
 layout: post
 title: "Weekend In Napa"
 microblog: false
+audio: 
 date: 2018-02-18 12:25 -0800
 guid: http://nnnnnathan.micro.blog/2018/02/18/weekend-in-napa.html
 ---
