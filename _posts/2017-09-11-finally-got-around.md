@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-11 08:31 -0800
 guid: http://nnnnnathan.micro.blog/2017/09/11/finally-got-around.html
 ---
