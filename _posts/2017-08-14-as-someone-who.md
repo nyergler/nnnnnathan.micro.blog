@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-14 13:37 -0800
 guid: http://nnnnnathan.micro.blog/2017/08/14/as-someone-who.html
 ---
