@@ -4,8 +4,17 @@
     <title>Nathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Sun, 18 Mar 2018 19:35:42 -0700</pubDate>
-    <lastBuildDate>Sun, 18 Mar 2018 19:35:42 -0700</lastBuildDate>
+    <pubDate>Thu, 22 Mar 2018 11:27:26 -0700</pubDate>
+    <lastBuildDate>Thu, 22 Mar 2018 11:27:26 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Reading about Python’s &lt;a href=&quot;https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c&quot;&gt;new breakpoint&lt;/a&gt; prompted me to revive my &lt;a href=&quot;http://static.yergler.net/in-depth-pdb/&quot;&gt;PDB tutorial&lt;/a&gt;. Guess I have some updating to do!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Mar 2018 10:27:00 -0800</pubDate>
+        <link>http://status.yergler.net/2018/03/22/reading-about-pythons.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/03/22/reading-about-pythons.html</guid>
+      </item>
     
       <item>
       	
@@ -485,15 +494,6 @@ Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s
         <pubDate>Wed, 09 Aug 2017 07:16:00 -0800</pubDate>
         <link>http://status.yergler.net/2017/08/09/spent-yesterday-evening.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/09/spent-yesterday-evening.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;&lt;a href=&quot;https://constellation-studios.net/blog/color-woodcut-workshop-great-success/&quot;&gt;Photos from the Color Woodcut Printmaking workshop&lt;/a&gt; at &lt;a href=&quot;http://constellation-studios.net&quot;&gt;Constellation Studios&lt;/a&gt; last week.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Aug 2017 07:31:00 -0800</pubDate>
-        <link>http://status.yergler.net/2017/08/02/photos-from-the.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html</guid>
       </item>
     
   </channel>
