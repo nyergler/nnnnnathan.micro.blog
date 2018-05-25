@@ -3,7 +3,7 @@ layout: post
 title: "An Afternoon With Rauschenberg"
 microblog: false
 audio: 
-date: 2018-01-24 14:35 -0800
+date: 2018-01-24 15:35:42 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/24/an-afternoon-with.html
 ---
 
