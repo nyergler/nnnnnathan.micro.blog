@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-26 04:07 -0800
+date: 2017-07-26 05:07:37 -0700
 guid: http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html
 ---
 Jorge knows reading is fundamental.
