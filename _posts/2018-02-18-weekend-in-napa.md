@@ -3,7 +3,7 @@ layout: post
 title: "Weekend In Napa"
 microblog: false
 audio: 
-date: 2018-02-18 12:25 -0800
+date: 2018-02-18 13:25:45 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/18/weekend-in-napa.html
 ---
 
