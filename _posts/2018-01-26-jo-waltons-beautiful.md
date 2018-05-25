@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-26 13:12 -0800
+date: 2018-01-26 14:12:38 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/26/jo-waltons-beautiful.html
 ---
 Jo Walton’s [beautiful eulogy for Le Guin](https://www.tor.com/2018/01/24/bright-the-hawks-flight-in-the-empty-sky-ursula-k-le-guin/).
