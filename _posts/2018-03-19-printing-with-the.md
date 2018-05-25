@@ -3,7 +3,7 @@ layout: post
 title: "Printing With The Xcut Xpress"
 microblog: false
 audio: 
-date: 2018-03-18 18:35 -0800
+date: 2018-03-18 19:35:41 -0700
 guid: http://nnnnnathan.micro.blog/2018/03/19/printing-with-the.html
 ---
 
