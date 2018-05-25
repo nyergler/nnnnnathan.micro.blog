@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-07 14:54 -0800
+date: 2018-02-07 15:54:56 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/07/incredibly-sad-to.html
 ---
 Incredibly sad to hear John Perry Barlow has died.
