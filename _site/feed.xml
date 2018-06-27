@@ -4,8 +4,17 @@
     <title>Nathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Tue, 29 May 2018 11:07:28 -0700</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 11:07:28 -0700</lastBuildDate>
+    <pubDate>Tue, 26 Jun 2018 13:55:00 -0700</pubDate>
+    <lastBuildDate>Tue, 26 Jun 2018 13:55:00 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I had fun experimenting with Rust + WASM a few months ago, but ultimately didn’t ship; &lt;a href=&quot;https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html&quot;&gt;seeing what’s coming next&lt;/a&gt;, I’m excited about how much further I would get today.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 13:54:58 -0700</pubDate>
+        <link>http://status.yergler.net/2018/06/26/i-had-fun.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/06/26/i-had-fun.html</guid>
+      </item>
     
       <item>
       	
@@ -483,19 +492,6 @@
         <pubDate>Wed, 16 Aug 2017 19:08:45 -0700</pubDate>
         <link>http://status.yergler.net/2017/08/16/reduction-printing-explained.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/17/reduction-printing-explained.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Work in progress from the studio this weekend, homage to Matisse’s “Seated Pink Nude”. Reduction linocut print with selective inking. Hoping to get it finished this week! 
-Loving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s Gray and we’ll have all my faves. 
-#wip #linocut #printmaking #relief #matisse #color #layering&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2017/163d5ecf3e.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Aug 2017 18:30:40 -0700</pubDate>
-        <link>http://status.yergler.net/2017/08/14/work-in-progress.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html</guid>
       </item>
     
   </channel>
