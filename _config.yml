@@ -1,5 +1,13 @@
+email: your-email@domain.com
 
-title: "Nathan"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "@nnnnnathan"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/nnnnnathan\">@nnnnnathan on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/nnnnnathan\">@nnnnnathan on Micro.blog</a>."
@@ -10,11 +18,11 @@ username: "nnnnnathan"
 microblog_user: "nnnnnathan"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Nathan"
-name: "Nathan"
+author: "@nnnnnathan"
+name: "@nnnnnathan"
 gravatar_hash: "75dc81420807523b4bdd266160b92e84"
 avatar: "https://micro.blog/nnnnnathan/avatar.jpg"
-full_name: "Nathan"
+full_name: "@nnnnnathan"
 bio: ""
 twitter_username: "nyergler"
 github_username: "nyergler"
