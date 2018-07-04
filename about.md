@@ -5,4 +5,4 @@ layout: page
 order: 0
 ---
 
-This is the placeholder text for your about page. You can edit this text under Account on Micro.blog.
+Engineer, print maker, aspiring sewcialist. Currently writing code at Lob; formerly CC, Eventbrite, Remind, Plangrid.
