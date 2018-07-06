@@ -4,8 +4,17 @@
     <title>@nnnnnathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Wed, 04 Jul 2018 18:45:41 -0700</pubDate>
-    <lastBuildDate>Wed, 04 Jul 2018 18:45:41 -0700</lastBuildDate>
+    <pubDate>Fri, 06 Jul 2018 09:28:44 -0700</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 09:28:44 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Austin Kleon’s advice about &lt;a href=&quot;https://austinkleon.com/2018/07/05/you-dont-have-to-live-in-public/&quot;&gt;living in public&lt;/a&gt; seems like an endorsement of Indie* principles, coming from the angle of creator/artist.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 09:28:41 -0700</pubDate>
+        <link>http://status.yergler.net/2018/07/06/austin-kleons-advice.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/06/austin-kleons-advice.html</guid>
+      </item>
     
       <item>
       	
@@ -483,15 +492,6 @@
         <pubDate>Fri, 08 Sep 2017 08:35:39 -0700</pubDate>
         <link>http://status.yergler.net/2017/09/08/released-an-update.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/08/released-an-update.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Discovered Versioneer yesterday, basically exactly how I always wanted Python version tagging to work. &lt;a href=&quot;https://github.com/warner/python-versioneer&quot;&gt;github.com/warner/py…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Sep 2017 08:30:36 -0700</pubDate>
-        <link>http://status.yergler.net/2017/09/08/discovered-versioneer-yesterday.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html</guid>
       </item>
     
   </channel>
