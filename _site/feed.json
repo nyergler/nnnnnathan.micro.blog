@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/09/i-learned-it.html",
+	      	
+			"content_html": "<p>I learned it as “make it right [correct], good [simple], fast”, but I think <a href=\"https://drewdevault.com/2018/07/09/Simple-correct-fast.html\">Drew explains the philosophy</a> very well.</p>\n",
+			"date_published": "2018-07-09T08:56:12-07:00",
+			"url": "http://status.yergler.net/2018/07/09/i-learned-it.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/07/08/back-in-the.html",
 	      	
 			"content_html": "<p>Back in the studio today, printing little cards with our little house on them. #linocut #printmaking #relief #imadethis</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/8ce50eb6ab.jpg\" width=\"600\" height=\"449\" /></p>\n",
@@ -203,16 +211,6 @@
 			"content_html": "<p><a href=\"https://iwantmyname.com/blog/i-miss-blogrolls\">Chris misses blogrolls</a>. So do I. When I was starting to sew back in October, a few “old school” blogs with sewing blog rolls offered great starting points.</p>\n",
 			"date_published": "2018-01-26T12:41:01-08:00",
 			"url": "http://status.yergler.net/2018/01/26/204101.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/01/24/an-afternoon-with.html",
-	      	
-			"title": "An Afternoon With Rauschenberg",
-			
-			"content_html": "<p><img src=\"http://status.yergler.net/uploads/2018/fc7fd28bfd.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/da4aa1410b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/aa289f6b3e.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/165da34379.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Photos from an afternoon wandering the Rauschenberg exhibit at SFMOMA.</p>\n\n",
-			"date_published": "2018-01-24T14:35:42-08:00",
-			"url": "http://status.yergler.net/2018/01/24/an-afternoon-with.html"
 		}
 		
 	]
