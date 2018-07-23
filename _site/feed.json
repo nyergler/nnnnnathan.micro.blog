@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/22/back-from-a.html",
+	      	
+			"content_html": "<p>Back from a week of #printmaking in #santafe with @anniebissettartist and studio dog Twiggy. Learned about #mokuhanga – Japanese wood block printing – and worked with water based inks more intentionally than I have in the past. Lots of new avenues  for my print work going forward. \nThis five block print is based on a photo I took in Guernsey a couple years ago while traveling with <a href=\"https://micro.blog/matt\">@matt</a>.pincus and @artextorian. Loved the vegetation, stairs, and pallette of that island.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/b20cc8f0a8.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-22T15:00:45-07:00",
+			"url": "http://status.yergler.net/2018/07/22/back-from-a.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/07/12/do-replies-get.html",
 	      	
 			"content_html": "<p>Do replies get handled differently than regular posts somehow? Noticing that two replies I wrote on the mac app in the last week don’t show up on the web. /cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p><img src=\"http://status.yergler.net/uploads/2018/f5458dcc63.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/0350239bc0.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/ebe4f02fd8.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/2b8405412f.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/e1d98ed1df.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/eba198c9ec.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/96f8b3e2d2.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/d6b54a56c5.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></p>\n\n<p>I spent the weekend in silence at Four Springs retreat center with 19 other members of my spiritual community. As always a sweet, challenging time of disconnection, reflection, nature, and art.</p>\n\n",
 			"date_published": "2018-02-05T08:43:20-08:00",
 			"url": "http://status.yergler.net/2018/02/05/silent-retreat.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/02/02/awesome-seeing-wxpython.html",
-	      	
-			"content_html": "<p>Awesome seeing <a href=\"https://wxpython.org/news/wxpython-4.0.0-release/\">wxPython 4.0</a> released today. I built several things for <a href=\"http://creativecommons.org\">CC</a> using wxPython, happy to see that it’s carried on.</p>\n",
-			"date_published": "2018-02-01T16:45:08-08:00",
-			"url": "http://status.yergler.net/2018/02/01/awesome-seeing-wxpython.html"
 		}
 		
 	]
