@@ -1,0 +1,661 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "@nnnnnathan",
+	"home_page_url": "http://status.yergler.net/",
+	"feed_url": "http://status.yergler.net/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/31/til-macaroons-are.html",
+	      	
+			"content_text": "TIL Macaroons are not only delicious, but also secure.\n",
+			"date_published": "2018-07-31T16:25:27-07:00",
+			"url": "http://status.yergler.net/2018/07/31/til-macaroons-are.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/24/a-week-of.html",
+	      	
+			"title": "A Week Of Printmaking",
+			
+			"content_text": "Making Art Safely Making Art Safely hosts printmaking and other...",
+			"date_published": "2018-07-24T08:17:07-07:00",
+			"url": "http://status.yergler.net/2018/07/24/a-week-of.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/22/back-from-a.html",
+	      	
+			"content_text": "Back from a week of #printmaking in #santafe with @anniebissettartist...",
+			"date_published": "2018-07-22T15:00:45-07:00",
+			"url": "http://status.yergler.net/2018/07/22/back-from-a.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/12/do-replies-get.html",
+	      	
+			"content_text": "Do replies get handled differently than regular posts somehow? Noticing...",
+			"date_published": "2018-07-12T11:51:21-07:00",
+			"url": "http://status.yergler.net/2018/07/12/do-replies-get.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/09/it-seems-like.html",
+	      	
+			"content_text": "It seems like micro.blog’s IndieAuth doesn’t support custom domains; can’t...",
+			"date_published": "2018-07-09T09:09:02-07:00",
+			"url": "http://status.yergler.net/2018/07/09/it-seems-like.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/09/i-learned-it.html",
+	      	
+			"content_text": "I learned it as “make it right [correct], good [simple],...",
+			"date_published": "2018-07-09T08:56:12-07:00",
+			"url": "http://status.yergler.net/2018/07/09/i-learned-it.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/08/back-in-the.html",
+	      	
+			"content_text": "Back in the studio today, printing little cards with our...",
+			"date_published": "2018-07-07T22:00:04-07:00",
+			"url": "http://status.yergler.net/2018/07/07/back-in-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/06/austin-kleons-advice.html",
+	      	
+			"content_text": "Austin Kleon’s advice about living in public seems like an...",
+			"date_published": "2018-07-06T09:28:41-07:00",
+			"url": "http://status.yergler.net/2018/07/06/austin-kleons-advice.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/05/nostalgia.html",
+	      	
+			"content_text": "Nostalgia\n",
+			"date_published": "2018-07-04T18:45:40-07:00",
+			"url": "http://status.yergler.net/2018/07/04/nostalgia.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/03/currently-reading-k.html",
+	      	
+			"content_text": "Currently reading: 84K by Claire North, ISBN: 9780316316804 📚\n",
+			"date_published": "2018-07-03T07:10:20-07:00",
+			"url": "http://status.yergler.net/2018/07/03/currently-reading-k.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/03/git-config-coreautocrlf.html",
+	      	
+			"content_text": "git config core.autocrlf auto on Windows side; core.autocrlf input on...",
+			"date_published": "2018-07-02T20:49:58-07:00",
+			"url": "http://status.yergler.net/2018/07/02/git-config-coreautocrlf.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/03/needed-to-replace.html",
+	      	
+			"content_text": "Needed to replace my aging personal computer, decided to dip...",
+			"date_published": "2018-07-02T20:49:17-07:00",
+			"url": "http://status.yergler.net/2018/07/02/needed-to-replace.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/06/26/i-had-fun.html",
+	      	
+			"content_text": "I had fun experimenting with Rust + WASM a few...",
+			"date_published": "2018-06-26T13:54:58-07:00",
+			"url": "http://status.yergler.net/2018/06/26/i-had-fun.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/05/29/happy-to-work.html",
+	      	
+			"content_text": "Happy to work for a company that thinks about our...",
+			"date_published": "2018-05-29T11:07:26-07:00",
+			"url": "http://status.yergler.net/2018/05/29/happy-to-work.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/05/25/back-in-frontend.html",
+	      	
+			"content_text": "Back in frontend land, reminded today that setState in React...",
+			"date_published": "2018-05-25T09:44:49-07:00",
+			"url": "http://status.yergler.net/2018/05/25/back-in-frontend.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/05/07/two-weeks-in.html",
+	      	
+			"content_text": "Two weeks in, and I can’t believe the difference. People:...",
+			"date_published": "2018-05-07T09:18:00-07:00",
+			"url": "http://status.yergler.net/2018/05/07/two-weeks-in.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/04/10/my-last-day.html",
+	      	
+			"content_text": "My last day at Plangrid was Friday. Lots of change...",
+			"date_published": "2018-04-10T14:08:14-07:00",
+			"url": "http://status.yergler.net/2018/04/10/my-last-day.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/03/22/reading-about-pythons.html",
+	      	
+			"content_text": "Reading about Python’s new breakpoint prompted me to revive my...",
+			"date_published": "2018-03-22T11:27:23-07:00",
+			"url": "http://status.yergler.net/2018/03/22/reading-about-pythons.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/03/19/printing-with-the.html",
+	      	
+			"title": "Printing With The Xcut Xpress",
+			
+			"content_text": "The Xcut Xpress is a die cutting and embossing machine...",
+			"date_published": "2018-03-18T19:35:41-07:00",
+			"url": "http://status.yergler.net/2018/03/18/printing-with-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/03/09/heading-to-bond.html",
+	      	
+			"content_text": "Heading to Bond Conference this morning.\n",
+			"date_published": "2018-03-09T09:32:19-08:00",
+			"url": "http://status.yergler.net/2018/03/09/heading-to-bond.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/28/notified-yesterday-that.html",
+	      	
+			"content_text": "Notified yesterday that I wasn’t selected for Big Ink. Bummer,...",
+			"date_published": "2018-02-28T10:34:36-08:00",
+			"url": "http://status.yergler.net/2018/02/28/notified-yesterday-that.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/20/submitted-my-proposal.html",
+	      	
+			"content_text": "Submitted my proposal for Big Ink at the last minute...",
+			"date_published": "2018-02-20T09:06:51-08:00",
+			"url": "http://status.yergler.net/2018/02/20/submitted-my-proposal.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/18/weekend-in-napa.html",
+	      	
+			"title": "Weekend In Napa",
+			
+			"content_text": "Sweet weekend away in Napa County. Couldn’t ask for better...",
+			"date_published": "2018-02-18T12:25:45-08:00",
+			"url": "http://status.yergler.net/2018/02/18/weekend-in-napa.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/09/attention.html",
+	      	
+			"title": "Attention",
+			
+			"content_text": "Talking to my grandparents this week, they expressed how valuable...",
+			"date_published": "2018-02-09T09:28:41-08:00",
+			"url": "http://status.yergler.net/2018/02/09/attention.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/07/incredibly-sad-to.html",
+	      	
+			"content_text": "Incredibly sad to hear John Perry Barlow has died. “Cyberspace...",
+			"date_published": "2018-02-07T14:54:56-08:00",
+			"url": "http://status.yergler.net/2018/02/07/incredibly-sad-to.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/05/remembering-madeline-three.html",
+	      	
+			"content_text": "Remembering Madeline, three years on. www.whatswrongwithmadeline.com/thank-you…\n",
+			"date_published": "2018-02-05T14:18:44-08:00",
+			"url": "http://status.yergler.net/2018/02/05/remembering-madeline-three.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/05/silent-retreat.html",
+	      	
+			"title": "Silent Retreat 2018",
+			
+			"content_text": "I spent the weekend in silence at Four Springs retreat...",
+			"date_published": "2018-02-05T08:43:20-08:00",
+			"url": "http://status.yergler.net/2018/02/05/silent-retreat.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/02/awesome-seeing-wxpython.html",
+	      	
+			"content_text": "Awesome seeing wxPython 4.0 released today. I built several things...",
+			"date_published": "2018-02-01T16:45:08-08:00",
+			"url": "http://status.yergler.net/2018/02/01/awesome-seeing-wxpython.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/26/jo-waltons-beautiful.html",
+	      	
+			"content_text": "Jo Walton’s beautiful eulogy for Le Guin. “I emailed to...",
+			"date_published": "2018-01-26T13:12:38-08:00",
+			"url": "http://status.yergler.net/2018/01/26/jo-waltons-beautiful.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/26/204101.html",
+	      	
+			"content_text": "Chris misses blogrolls. So do I. When I was starting...",
+			"date_published": "2018-01-26T12:41:01-08:00",
+			"url": "http://status.yergler.net/2018/01/26/204101.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/24/an-afternoon-with.html",
+	      	
+			"title": "An Afternoon With Rauschenberg",
+			
+			"content_text": "Photos from an afternoon wandering the Rauschenberg exhibit at SFMOMA....",
+			"date_published": "2018-01-24T14:35:42-08:00",
+			"url": "http://status.yergler.net/2018/01/24/an-afternoon-with.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/24/im-feeling-unexpectedly.html",
+	      	
+			"content_text": "📚I’m feeling unexpectedly tender and grief stricken reading the news...",
+			"date_published": "2018-01-23T16:49:34-08:00",
+			"url": "http://status.yergler.net/2018/01/23/im-feeling-unexpectedly.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/23/just-finished-turtles.html",
+	      	
+			"content_text": "Just finished 📚 “Turtles All the Way Down”. Feeling unexpectedly...",
+			"date_published": "2018-01-23T13:12:24-08:00",
+			"url": "http://status.yergler.net/2018/01/23/just-finished-turtles.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/22/im-less-philosophically.html",
+	      	
+			"content_text": "I’m less philosophically aligned with The Economist these days, but...",
+			"date_published": "2018-01-22T10:27:45-08:00",
+			"url": "http://status.yergler.net/2018/01/22/im-less-philosophically.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/22/just-as-america.html",
+	      	
+			"content_text": "“Just as America drew up sophisticated rules about intellectual property...",
+			"date_published": "2018-01-22T10:26:40-08:00",
+			"url": "http://status.yergler.net/2018/01/22/just-as-america.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/20/great-post-on.html",
+	      	
+			"content_text": "Great post on software design. Software specs are funny things;...",
+			"date_published": "2018-01-20T12:09:29-08:00",
+			"url": "http://status.yergler.net/2018/01/20/great-post-on.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/20/im-a-downhill.html",
+	      	
+			"content_text": "“I’m a downhill skier. I get to the bottom. Once...",
+			"date_published": "2018-01-20T09:39:24-08:00",
+			"url": "http://status.yergler.net/2018/01/20/im-a-downhill.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/20/how-to-read.html",
+	      	
+			"content_text": "How to read on the web in 2018. mashable.com/2017/12/2…\n",
+			"date_published": "2018-01-19T16:29:36-08:00",
+			"url": "http://status.yergler.net/2018/01/19/how-to-read.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html",
+	      	
+			"content_text": "Republished my thought On Product Engineering to Medium; it’ll be...",
+			"date_published": "2018-01-19T12:16:04-08:00",
+			"url": "http://status.yergler.net/2018/01/19/republished-my-thought.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/just-read-the.html",
+	      	
+			"content_text": "Just read the news of Dean Allen’s passing. I remember...",
+			"date_published": "2018-01-19T09:31:03-08:00",
+			"url": "http://status.yergler.net/2018/01/19/just-read-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/picked-up-john.html",
+	      	
+			"content_text": "Picked up John Green’s 📚 “Turtles All the Way Down”...",
+			"date_published": "2018-01-19T08:45:27-08:00",
+			"url": "http://status.yergler.net/2018/01/19/picked-up-john.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/19/decided-to-disable.html",
+	      	
+			"content_text": "Decided to disable Twitter cross-posting for a while. Even though...",
+			"date_published": "2018-01-19T08:44:02-08:00",
+			"url": "http://status.yergler.net/2018/01/19/decided-to-disable.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/17/finished-sewing-my.html",
+	      	
+			"content_text": "Finished sewing my Merchant &amp; Mills Foreman last night in...",
+			"date_published": "2018-01-17T09:00:25-08:00",
+			"url": "http://status.yergler.net/2018/01/17/finished-sewing-my.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/17/really-interesting-to.html",
+	      	
+			"content_text": "Really interesting to see how people are using #Rust macros...",
+			"date_published": "2018-01-17T08:55:46-08:00",
+			"url": "http://status.yergler.net/2018/01/17/really-interesting-to.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/12/06/til-that-if.html",
+	      	
+			"content_text": "TIL that if you’re trying to use #rust and #webassembly...",
+			"date_published": "2017-12-06T15:56:21-08:00",
+			"url": "http://status.yergler.net/2017/12/06/til-that-if.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/11/17/itd-be-great.html",
+	      	
+			"content_text": "It’d be great if the iOS micro.blog app paged in...",
+			"date_published": "2017-11-17T10:21:28-08:00",
+			"url": "http://status.yergler.net/2017/11/17/itd-be-great.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/11/17/heading-to-las.html",
+	      	
+			"content_text": "Heading to Las Vegas for a long weekend with family....",
+			"date_published": "2017-11-17T10:20:01-08:00",
+			"url": "http://status.yergler.net/2017/11/17/heading-to-las.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/11/ive-had-my.html",
+	      	
+			"content_text": "I’ve had my reMarkable table for about 24 hours now;...",
+			"date_published": "2017-10-11T14:09:04-07:00",
+			"url": "http://status.yergler.net/2017/10/11/ive-had-my.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/05/listening-to-the.html",
+	      	
+			"content_text": "Listening to “The Art of Destroying Software”. maximilianhoffmann.com/talks/pro…\n",
+			"date_published": "2017-10-05T16:50:41-07:00",
+			"url": "http://status.yergler.net/2017/10/05/listening-to-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/04/resurrected-some-python.html",
+	      	
+			"content_text": "Resurrected some Python + Unicode training material I put together...",
+			"date_published": "2017-10-04T15:54:47-07:00",
+			"url": "http://status.yergler.net/2017/10/04/resurrected-some-python.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/10/03/anohnis-hopelessness-is.html",
+	      	
+			"content_text": "Anohni’s “Hopelessness” is the album I have on repeat these...",
+			"date_published": "2017-10-03T10:44:14-07:00",
+			"url": "http://status.yergler.net/2017/10/03/anohnis-hopelessness-is.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/24/163632.html",
+	      	
+			"content_text": "🌯👶🏻\n\n\n",
+			"date_published": "2017-09-24T09:36:32-07:00",
+			"url": "http://status.yergler.net/2017/09/24/163632.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/19/in-hours-ill.html",
+	      	
+			"content_text": "In 24 hours I’ll be an uncle again. Woah.\n",
+			"date_published": "2017-09-19T16:50:46-07:00",
+			"url": "http://status.yergler.net/2017/09/19/in-hours-ill.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/19/really-enjoying-procreate.html",
+	      	
+			"content_text": "Really enjoying Procreate 4. Huge, free upgrade.\n",
+			"date_published": "2017-09-19T15:25:26-07:00",
+			"url": "http://status.yergler.net/2017/09/19/really-enjoying-procreate.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/11/finally-got-around.html",
+	      	
+			"content_text": "Finally got around to writing about how we did Product...",
+			"date_published": "2017-09-11T09:31:32-07:00",
+			"url": "http://status.yergler.net/2017/09/11/finally-got-around.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/11/saw-patti-cake.html",
+	      	
+			"content_text": "Saw Patti Cake$ over the weekend. Fun mashup of film...",
+			"date_published": "2017-09-11T08:55:46-07:00",
+			"url": "http://status.yergler.net/2017/09/11/saw-patti-cake.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/08/released-an-update.html",
+	      	
+			"content_text": "Released an update to Hieroglyph yesterday, fixing compatibility with Sphinx...",
+			"date_published": "2017-09-08T08:35:39-07:00",
+			"url": "http://status.yergler.net/2017/09/08/released-an-update.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/08/discovered-versioneer-yesterday.html",
+	      	
+			"content_text": "Discovered Versioneer yesterday, basically exactly how I always wanted Python...",
+			"date_published": "2017-09-08T08:30:36-07:00",
+			"url": "http://status.yergler.net/2017/09/08/discovered-versioneer-yesterday.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/05/still-questions-over.html",
+	      	
+			"content_text": "Still questions, over two years later. www.whatswrongwithmadeline.com/questions…\n",
+			"date_published": "2017-09-05T12:47:48-07:00",
+			"url": "http://status.yergler.net/2017/09/05/still-questions-over.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/05/if-wearing-sweatpants.html",
+	      	
+			"content_text": "If wearing sweatpants in public means I’ve given up on...",
+			"date_published": "2017-09-05T12:47:28-07:00",
+			"url": "http://status.yergler.net/2017/09/05/if-wearing-sweatpants.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/26/do-your-research.html",
+	      	
+			"content_text": "“Do your research online. Create offline.” chris.bolin.co/offline/\n",
+			"date_published": "2017-08-26T08:28:47-07:00",
+			"url": "http://status.yergler.net/2017/08/26/do-your-research.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/17/reduction-printing-explained.html",
+	      	
+			"content_text": "Reduction printing explained visually: www.yergler.net/2017/08/1…\n",
+			"date_published": "2017-08-16T19:08:45-07:00",
+			"url": "http://status.yergler.net/2017/08/16/reduction-printing-explained.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html",
+	      	
+			"content_text": "Work in progress from the studio this weekend, homage to...",
+			"date_published": "2017-08-14T18:30:40-07:00",
+			"url": "http://status.yergler.net/2017/08/14/work-in-progress.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/14/as-someone-who.html",
+	      	
+			"content_text": "As someone who still has 5.25” floppies of Brøderbund’s Print...",
+			"date_published": "2017-08-14T14:37:32-07:00",
+			"url": "http://status.yergler.net/2017/08/14/as-someone-who.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/14/ulysses-is-my.html",
+	      	
+			"content_text": "Ulysses is my go-to app for writing. They announced they’re...",
+			"date_published": "2017-08-14T14:33:57-07:00",
+			"url": "http://status.yergler.net/2017/08/14/ulysses-is-my.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/11/observed-at-hair.html",
+	      	
+			"content_text": "Observed at hair salon: patron trying to explain bitcoin startups...",
+			"date_published": "2017-08-11T08:24:04-07:00",
+			"url": "http://status.yergler.net/2017/08/11/observed-at-hair.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/09/spent-yesterday-evening.html",
+	      	
+			"content_text": "Spent yesterday evening exploring TypeScript and WebExtensions. Tinkering like it’s...",
+			"date_published": "2017-08-09T08:16:45-07:00",
+			"url": "http://status.yergler.net/2017/08/09/spent-yesterday-evening.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/02/photos-from-the.html",
+	      	
+			"content_text": "Photos from the Color Woodcut Printmaking workshop at Constellation Studios...",
+			"date_published": "2017-08-02T08:31:23-07:00",
+			"url": "http://status.yergler.net/2017/08/02/photos-from-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/31/second-print-from.html",
+	      	
+			"content_text": "Second print from my time at @constellationstudios this week. Two...",
+			"date_published": "2017-07-30T19:27:27-07:00",
+			"url": "http://status.yergler.net/2017/07/30/second-print-from.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html",
+	      	
+			"content_text": "I’m in Nebraska this week participating in the Color Woodcut...",
+			"date_published": "2017-07-28T19:30:08-07:00",
+			"url": "http://status.yergler.net/2017/07/28/im-in-nebraska.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/29/turns-out-you.html",
+	      	
+			"content_text": "Turns out you can get a blister on the back...",
+			"date_published": "2017-07-28T18:17:26-07:00",
+			"url": "http://status.yergler.net/2017/07/28/turns-out-you.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html",
+	      	
+			"content_text": "Some more practice from this weekend. #printmaking #relief #linocut\n\n\n",
+			"date_published": "2017-07-26T05:10:09-07:00",
+			"url": "http://status.yergler.net/2017/07/26/some-more-practice.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html",
+	      	
+			"content_text": "Jorge knows reading is fundamental.\n\n\n",
+			"date_published": "2017-07-26T05:07:37-07:00",
+			"url": "http://status.yergler.net/2017/07/26/jorge-knows-reading.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/first-day-of.html",
+	      	
+			"content_text": "First day of color woodcut printmaking class at Constellation Studio;...",
+			"date_published": "2017-07-26T04:59:50-07:00",
+			"url": "http://status.yergler.net/2017/07/26/first-day-of.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/19/tfw-youre-trying.html",
+	      	
+			"content_text": "TFW you’re trying to fix an inconsistency, find &amp; fix...",
+			"date_published": "2017-07-19T09:06:46-07:00",
+			"url": "http://status.yergler.net/2017/07/19/tfw-youre-trying.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/15/really-appreciating-the.html",
+	      	
+			"content_text": "Really appreciating the new #microblog universal app.\n",
+			"date_published": "2017-07-15T09:04:08-07:00",
+			"url": "http://status.yergler.net/2017/07/15/really-appreciating-the.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/06/08/my-bet-is.html",
+	      	
+			"content_text": "“My bet is that self-talk works best on problems where...",
+			"date_published": "2017-06-08T16:46:12-07:00",
+			"url": "http://status.yergler.net/2017/06/08/my-bet-is.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/06/08/turns-out-my.html",
+	      	
+			"content_text": "Turns out my swearing and muttering while working is just...",
+			"date_published": "2017-06-08T16:45:40-07:00",
+			"url": "http://status.yergler.net/2017/06/08/turns-out-my.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/05/31/deja-vu-last.html",
+	      	
+			"content_text": "Deja vu last night talking to a friend about HLS...",
+			"date_published": "2017-05-31T09:28:56-07:00",
+			"url": "http://status.yergler.net/2017/05/31/deja-vu-last.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/04/30/after-years-in.html",
+	      	
+			"content_text": "After 4 years in the oven, a new release of...",
+			"date_published": "2017-04-30T10:14:50-07:00",
+			"url": "http://status.yergler.net/2017/04/30/after-years-in.html"
+		}
+		
+	]
+}
