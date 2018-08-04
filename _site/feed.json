@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/08/04/how-do-i.html",
+	      	
+			"content_html": "<p>How do I know it’s going to be a good weekend? <a href=\"https://open.spotify.com/track/4Sn5B44sLfQ364FUL98jvN?si=YmZPUNWMTVSdxwcy0eo1BA\">New Robyn single</a>. Finally.</p>\n",
+			"date_published": "2018-08-03T22:26:11-07:00",
+			"url": "http://status.yergler.net/2018/08/03/how-do-i.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/07/31/til-macaroons-are.html",
 	      	
 			"content_html": "<p>TIL <a href=\"http://evancordell.com/2015/09/27/macaroons-101-contextual-confinement.html\">Macaroons</a> are not only delicious, but also secure.</p>\n",
@@ -203,14 +211,6 @@
 			"content_html": "<p>Talking to my grandparents this week, they expressed how valuable they find Facebook for feeling connected to their increasingly geographically-spread family. Reminded me that there is a valuable, relationship-affirming side of social media tools that exists in tension with the <a href=\"http://calnewport.com/blog/2018/02/09/facebooks-desperate-smoke-screen/\">increasingly distressing</a> aspects of the attention economy.</p>\n\n<p>Although that may simply be because the algorithms haven’t caught up with nonagenarians [yet].</p>\n",
 			"date_published": "2018-02-09T09:28:41-08:00",
 			"url": "http://status.yergler.net/2018/02/09/attention.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/02/07/incredibly-sad-to.html",
-	      	
-			"content_html": "<p>Incredibly sad to hear John Perry Barlow has died.</p>\n\n<p>“Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. <a href=\"https://www.eff.org/cyberspace-independence\">Ours is a world that is both everywhere and nowhere, but it is not where bodies live</a>.”</p>\n\n",
-			"date_published": "2018-02-07T14:54:56-08:00",
-			"url": "http://status.yergler.net/2018/02/07/incredibly-sad-to.html"
 		}
 		
 	]
