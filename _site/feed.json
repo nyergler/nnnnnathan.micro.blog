@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/08/27/ive-had-brutalist.html",
+	      	
+			"content_html": "<p>I’ve had <a href=\"https://brutalist-web.design/\">Brutalist Web Design</a> open in my browser for over a week and keep skimming it. When was the last time I saw a page that allowed browser-default <code class=\"highlighter-rouge\">a:visited</code>? 😍</p>\n",
+			"date_published": "2018-08-27T09:15:34-07:00",
+			"url": "http://status.yergler.net/2018/08/27/ive-had-brutalist.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/08/04/how-do-i.html",
 	      	
 			"content_html": "<p>How do I know it’s going to be a good weekend? <a href=\"https://open.spotify.com/track/4Sn5B44sLfQ364FUL98jvN?si=YmZPUNWMTVSdxwcy0eo1BA\">New Robyn single</a>. Finally.</p>\n",
@@ -201,16 +209,6 @@
 			"content_html": "<p><img src=\"http://status.yergler.net/uploads/2018/f5d0fb4d0b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/dd8b370932.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/1ad9959e95.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/e27109812d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/70392b90c7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></p>\n\n<p>Sweet weekend away in Napa County. Couldn’t ask for better weather.</p>\n\n",
 			"date_published": "2018-02-18T12:25:45-08:00",
 			"url": "http://status.yergler.net/2018/02/18/weekend-in-napa.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/02/09/attention.html",
-	      	
-			"title": "Attention",
-			
-			"content_html": "<p>Talking to my grandparents this week, they expressed how valuable they find Facebook for feeling connected to their increasingly geographically-spread family. Reminded me that there is a valuable, relationship-affirming side of social media tools that exists in tension with the <a href=\"http://calnewport.com/blog/2018/02/09/facebooks-desperate-smoke-screen/\">increasingly distressing</a> aspects of the attention economy.</p>\n\n<p>Although that may simply be because the algorithms haven’t caught up with nonagenarians [yet].</p>\n",
-			"date_published": "2018-02-09T09:28:41-08:00",
-			"url": "http://status.yergler.net/2018/02/09/attention.html"
 		}
 		
 	]
