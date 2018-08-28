@@ -32,7 +32,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "1295"
 gems: ["jekyll-paginate"]
+itunes_description: "Engineer, print maker, aspiring sewcialist. Currently writing code at Lob; formerly CC, Eventbrite, Remind, Plangrid."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Nathan"
+itunes_email: ""
 podcast: false
