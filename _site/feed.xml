@@ -4,8 +4,73 @@
     <title>@nnnnnathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Mon, 27 Aug 2018 09:15:43 -0700</pubDate>
-    <lastBuildDate>Mon, 27 Aug 2018 09:15:43 -0700</lastBuildDate>
+    <pubDate>Mon, 10 Sep 2018 11:10:30 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Sep 2018 11:10:30 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Pocket and sleeve plackets installed, ready to start assembling my next shirt. Love this tiny stripe, but the super soft fabric is harder to work with. Learning something, that’s for sure.&lt;/p&gt;
+
+&lt;p&gt;PS: yes, I already fixed the stitching on the pocket bottom, just too lazy to take another photo.&lt;/p&gt;
+
+&lt;p&gt;#oaklandsews #sewing #babylock #memade #lewqlewq&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/ed26fb4f3e.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Sep 2018 06:47:02 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/10/pocket-and-sleeve.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/10/pocket-and-sleeve.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Zero Books, Zero Tools</title>
+        
+        <description>&lt;p&gt;Thorsten writes &lt;a href=&quot;https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/&quot;&gt;about the tools&lt;/a&gt; he used to write two books; spoiler: a text editor features prominently, custom tools do not.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now I have written two books and zero tools, which I consider a success.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve definitely let my desire to &lt;a href=&quot;https://en.wikipedia.org/wiki/Don%27t_repeat_yourself&quot;&gt;“keep it DRY”&lt;/a&gt; interfere with this while attempting to &lt;a href=&quot;https://beta.effectivedjango.com/&quot;&gt;update Effective Django&lt;/a&gt;; Sphinx’s &lt;code class=&quot;highlighter-rouge&quot;&gt;literalinclude&lt;/code&gt; has a &lt;a href=&quot;http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#directive-literalinclude&quot;&gt;pyobject&lt;/a&gt; option, which I’ve taken more than one stab at extending to show “book-style” diffs. (Not dwelling on the fact that – for Effective Django, at least – I’d also need to write the equivalent for at least HTML.)&lt;/p&gt;
+
+&lt;p&gt;Perhaps unsurprisingly, for Thorsten it comes down to &lt;em&gt;writing&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Sep 2018 07:50:19 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/05/zero-books-zero.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/05/zero-books-zero.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.yergler.net/2018/09/04/old-in-art-school/&quot;&gt;Brief reflections&lt;/a&gt; on Nell Painter’s excellent 📕 “Old in Art School”. 📚&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 20:47:17 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/04/brief-reflections-on.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/05/brief-reflections-on.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My sewing helper. #jorge&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/09628fd335.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 21:27:25 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/03/my-sewing-helper.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/04/my-sewing-helper.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I made pie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/398e3959ef.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/b745b825fc.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 21:25:54 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/03/i-made-pie.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/04/i-made-pie.html</guid>
+      </item>
     
       <item>
       	
@@ -14,6 +79,39 @@
         <pubDate>Mon, 27 Aug 2018 09:15:34 -0700</pubDate>
         <link>http://status.yergler.net/2018/08/27/ive-had-brutalist.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/08/27/ive-had-brutalist.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Do we not sail on a ship of fools? #erasure&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/0344b45e6f.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Aug 2018 23:27:51 -0700</pubDate>
+        <link>http://status.yergler.net/2018/08/18/do-we-not.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/08/19/do-we-not.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Amazing Erasure show tonight with a great group of friends. Tonight I am living for Andy Bell in a skirt and Mary Janes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/189537ecda.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/6aec4a5e85.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Aug 2018 23:25:50 -0700</pubDate>
+        <link>http://status.yergler.net/2018/08/18/amazing-erasure-show.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/08/19/amazing-erasure-show.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;This job sucks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/c77a06a228.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Aug 2018 15:49:07 -0700</pubDate>
+        <link>http://status.yergler.net/2018/08/14/this-job-sucks.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/08/14/this-job-sucks.html</guid>
       </item>
     
       <item>
@@ -32,6 +130,17 @@
         <pubDate>Tue, 31 Jul 2018 16:25:27 -0700</pubDate>
         <link>http://status.yergler.net/2018/07/31/til-macaroons-are.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/31/til-macaroons-are.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Curiosity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/5be05a8cb0.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jul 2018 07:22:45 -0700</pubDate>
+        <link>http://status.yergler.net/2018/07/30/curiosity.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/30/curiosity.html</guid>
       </item>
     
       <item>
@@ -70,14 +179,24 @@
     
       <item>
       	
-        <description>&lt;p&gt;Back from a week of #printmaking in #santafe with @anniebissettartist and studio dog Twiggy. Learned about #mokuhanga – Japanese wood block printing – and worked with water based inks more intentionally than I have in the past. Lots of new avenues  for my print work going forward. 
-This five block print is based on a photo I took in Guernsey a couple years ago while traveling with &lt;a href=&quot;https://micro.blog/matt&quot;&gt;@matt&lt;/a&gt;.pincus and @artextorian. Loved the vegetation, stairs, and pallette of that island.&lt;/p&gt;
+        <description>&lt;p&gt;Art critic kitteh.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/b20cc8f0a8.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/435aa3c236.jpg&quot; width=&quot;597&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 22 Jul 2018 15:00:45 -0700</pubDate>
-        <link>http://status.yergler.net/2018/07/22/back-from-a.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/22/back-from-a.html</guid>
+        <pubDate>Mon, 23 Jul 2018 19:33:40 -0700</pubDate>
+        <link>http://status.yergler.net/2018/07/23/art-critic-kitteh.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/24/art-critic-kitteh.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Someone is in kitty jail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/0637b308eb.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Jul 2018 07:54:39 -0700</pubDate>
+        <link>http://status.yergler.net/2018/07/22/someone-is-in.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/22/someone-is-in.html</guid>
       </item>
     
       <item>
@@ -105,6 +224,17 @@ This five block print is based on a photo I took in Guernsey a couple years ago 
         <pubDate>Mon, 09 Jul 2018 08:56:12 -0700</pubDate>
         <link>http://status.yergler.net/2018/07/09/i-learned-it.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/09/i-learned-it.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Sunday breakfast for two.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/06f92bf779.jpg&quot; width=&quot;480&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jul 2018 09:32:25 -0700</pubDate>
+        <link>http://status.yergler.net/2018/07/08/sunday-breakfast-for.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/07/08/sunday-breakfast-for.html</guid>
       </item>
     
       <item>
@@ -421,105 +551,6 @@ This five block print is based on a photo I took in Guernsey a couple years ago 
         <pubDate>Sat, 20 Jan 2018 09:39:24 -0800</pubDate>
         <link>http://status.yergler.net/2018/01/20/im-a-downhill.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/20/im-a-downhill.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;How to read on the web in 2018. &lt;a href=&quot;http://mashable.com/2017/12/27/browser-bar-url-facebook-bad/&quot;&gt;mashable.com/2017/12/2…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 16:29:36 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/19/how-to-read.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/20/how-to-read.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Republished my thought &lt;a href=&quot;https://medium.com/@nyergler/on-product-engineering-fc415360e5d5&quot;&gt;On Product Engineering&lt;/a&gt; to Medium; it’ll be interesting to see how response differs from when I posted to my personal blog.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 12:16:04 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/19/republished-my-thought.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/19/republished-my-thought.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Just read &lt;a href=&quot;https://daringfireball.net/2018/01/dean_allen&quot;&gt;the news&lt;/a&gt; of Dean Allen’s passing. I remember what a revelation Textpattern was in what feels like another lifetime.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 09:31:03 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/19/just-read-the.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/19/just-read-the.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Picked up John Green’s 📚 “Turtles All the Way Down” two days ago; stayed up an extra hour last night reading. This is why I love YA novels.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 08:45:27 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/19/picked-up-john.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/19/picked-up-john.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Decided to disable Twitter cross-posting for a while. Even though I’m a &lt;em&gt;very&lt;/em&gt; light user, I found myself thinking about followers there when I had the impulse to post to micro.blog. It might be better if I could let go of that, but posting is better than not posting &lt;em&gt;for me&lt;/em&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jan 2018 08:44:02 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/19/decided-to-disable.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/19/decided-to-disable.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Finished sewing my &lt;a href=&quot;http://merchantandmills.com/&quot;&gt;Merchant &amp;amp; Mills&lt;/a&gt; &lt;a href=&quot;http://merchantandmills.com/store/patterns/the-foreman/&quot;&gt;Foreman&lt;/a&gt; last night in denim; love the soft boxy shape.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Jan 2018 09:00:25 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/17/finished-sewing-my.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/17/finished-sewing-my.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Really interesting to see how people are using #Rust macros for code generation. Latest example: &lt;a href=&quot;https://www.ncameron.org/blog/a-proof-of-concept-graphql-server-framework-for-rust/&quot;&gt;GraphQL Schemas&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Jan 2018 08:55:46 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/17/really-interesting-to.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/17/really-interesting-to.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;TIL that if you’re trying to use #rust and #webassembly together, you [seemingly] can’t pass parameters if you don’t build with &lt;code class=&quot;highlighter-rouge&quot;&gt;--release&lt;/code&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Dec 2017 15:56:21 -0800</pubDate>
-        <link>http://status.yergler.net/2017/12/06/til-that-if.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/12/06/til-that-if.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;It’d be great if the iOS micro.blog app paged in more timeline posts as you scroll, &lt;a href=&quot;https://micro.blog/manton&quot;&gt;@manton&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Nov 2017 10:21:28 -0800</pubDate>
-        <link>http://status.yergler.net/2017/11/17/itd-be-great.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/11/17/itd-be-great.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Heading to Las Vegas for a long weekend with family.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Nov 2017 10:20:01 -0800</pubDate>
-        <link>http://status.yergler.net/2017/11/17/heading-to-las.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/11/17/heading-to-las.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’ve had my reMarkable table for about 24 hours now; hardware is great, software is close, best GPL compliance I’ve seen. &lt;a href=&quot;http://remarkable.com&quot;&gt;remarkable.com&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Oct 2017 14:09:04 -0700</pubDate>
-        <link>http://status.yergler.net/2017/10/11/ive-had-my.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2017/10/11/ive-had-my.html</guid>
       </item>
     
   </channel>
