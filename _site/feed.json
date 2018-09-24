@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/24/but-look-the.html",
+	      	
+			"content_html": "<blockquote>\n  <p>“But, look: the world is a nightmarish hellscape of unending despair, and so the hill I have decided to plant my flag on is this tiny bit of sanity, where common sense might make fractional headway against the rote devotion to no-longer-relevant rules.”</p>\n</blockquote>\n\n<p>– <a href=\"http://www.eod.com/blog/2018/09/rejected/\">Rejected</a></p>\n",
+			"date_published": "2018-09-24T09:44:39-07:00",
+			"url": "http://status.yergler.net/2018/09/24/but-look-the.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/09/24/finally-finished-my.html",
 	      	
 			"content_html": "<p>Finally finished my 👕. This light, woven shirting from @britexfabrics  has a lovely, soft hand, but it was sort of a pain to work with. I think I’ll stick to tighter weaves in the future. 🤷🏻‍♂️ On to the next project. \n#sewing #imadethis #sewqueer #oaklandsews</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/794c8c1387.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/47b5b96136.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/5be4c060f6.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316316804\">84K</a> by Claire North, ISBN: 9780316316804 📚</p>\n",
 			"date_published": "2018-07-03T07:10:20-07:00",
 			"url": "http://status.yergler.net/2018/07/03/currently-reading-k.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/07/03/git-config-coreautocrlf.html",
-	      	
-			"content_html": "<p><code class=\"highlighter-rouge\">git config core.autocrlf auto</code> on Windows side; <code class=\"highlighter-rouge\">core.autocrlf input</code> on WSL side and… it just sort of works like I expect.</p>\n",
-			"date_published": "2018-07-02T20:49:58-07:00",
-			"url": "http://status.yergler.net/2018/07/02/git-config-coreautocrlf.html"
 		}
 		
 	]
