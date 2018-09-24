@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "@nnnnnathan",
+	"icon": "https://micro.blog/nnnnnathan/avatar.jpg",
 	"home_page_url": "http://status.yergler.net/",
 	"feed_url": "http://status.yergler.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/24/finally-finished-my.html",
+	      	
+			"content_text": "Finally finished my 👕. This light, woven shirting from @britexfabrics...",
+			"date_published": "2018-09-23T22:00:58-07:00",
+			"url": "http://status.yergler.net/2018/09/23/finally-finished-my.html"
+		},
 		
 		{
 			"id": "http://nnnnnathan.micro.blog/2018/09/10/pocket-and-sleeve.html",
