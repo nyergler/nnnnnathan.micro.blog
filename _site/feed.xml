@@ -4,8 +4,41 @@
     <title>@nnnnnathan</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nnnnnathan&quot;&gt;@nnnnnathan on Micro.blog&lt;/a&gt;.</description>
     <link>http://status.yergler.net/</link>
-    <pubDate>Mon, 24 Sep 2018 09:45:42 -0700</pubDate>
-    <lastBuildDate>Mon, 24 Sep 2018 09:45:42 -0700</lastBuildDate>
+    <pubDate>Tue, 25 Sep 2018 19:50:28 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Sep 2018 19:50:28 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;http://status.yergler.net/uploads/2018/5d53173f20.jpg&quot;&gt;&lt;img src=&quot;http://status.yergler.net/uploads/2018/5d53173f20.jpg&quot; width=&quot;600&quot; height=&quot;525&quot; style=&quot;height: auto;&quot; class=&quot;sunlit_image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Totally loving Emulsify. Reminds me of shooting Tri-X film with my old Pentax in college.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Sep 2018 19:50:19 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/25/totally-loving-emulsify.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/26/totally-loving-emulsify.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Open source maintainer burnout is a real thing; &lt;em&gt;and&lt;/em&gt; Hapi’s &lt;a href=&quot;https://hueniverse.com/the-backwards-commercial-license-647290f7e38b&quot;&gt;“backwards commercial” license plan&lt;/a&gt; leaves me with a bad taste.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;80% of current hapi users are on an older major version than master.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From the latest &lt;a href=&quot;https://github.com/hapijs/hapi/issues/3658&quot;&gt;major version release notes&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;hapi v17.0.0 is a major new version of the framework. … In many ways, it is a new framework because it make fundamental changes to how business logic is interfaced with the framework.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Maybe this has something to do with the number of users who haven’t upgraded? (We use Hapi at work and currently sponsor the project; after looking at v17, I can’t imagine why we’d invest the time to upgrade to what is effectively a different framework.)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Sep 2018 10:23:07 -0700</pubDate>
+        <link>http://status.yergler.net/2018/09/24/open-source-maintainer.html</link>
+        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/09/24/open-source-maintainer.html</guid>
+      </item>
     
       <item>
       	
@@ -540,24 +573,6 @@
         <pubDate>Tue, 23 Jan 2018 13:12:24 -0800</pubDate>
         <link>http://status.yergler.net/2018/01/23/just-finished-turtles.html</link>
         <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/23/just-finished-turtles.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;I’m less philosophically aligned with The Economist these days, but giving users more control seems like a good starting point.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Jan 2018 10:27:45 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/22/im-less-philosophically.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/22/im-less-philosophically.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;“Just as America drew up sophisticated rules about intellectual property in the 19th century, so it needs a new set of laws to govern the ownership and exchange of data, with the aim of giving solid rights to individuals.” – &lt;a href=&quot;https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame&quot;&gt;How to Tame the Tech Titans&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Jan 2018 10:26:40 -0800</pubDate>
-        <link>http://status.yergler.net/2018/01/22/just-as-america.html</link>
-        <guid isPermaLink="true">http://nnnnnathan.micro.blog/2018/01/22/just-as-america.html</guid>
       </item>
     
   </channel>
