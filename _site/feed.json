@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/26/totally-loving-emulsify.html",
+	      	
+			"content_html": "<p><a href=\"http://status.yergler.net/uploads/2018/5d53173f20.jpg\"><img src=\"http://status.yergler.net/uploads/2018/5d53173f20.jpg\" width=\"600\" height=\"525\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Totally loving Emulsify. Reminds me of shooting Tri-X film with my old Pentax in college.</p>\n\n",
+			"date_published": "2018-09-25T19:50:19-07:00",
+			"url": "http://status.yergler.net/2018/09/25/totally-loving-emulsify.html"
+		},
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/24/open-source-maintainer.html",
+	      	
+			"content_html": "<p>Open source maintainer burnout is a real thing; <em>and</em> Hapi’s <a href=\"https://hueniverse.com/the-backwards-commercial-license-647290f7e38b\">“backwards commercial” license plan</a> leaves me with a bad taste.</p>\n\n<blockquote>\n  <p>80% of current hapi users are on an older major version than master.</p>\n</blockquote>\n\n<p>From the latest <a href=\"https://github.com/hapijs/hapi/issues/3658\">major version release notes</a>:</p>\n\n<blockquote>\n  <p>hapi v17.0.0 is a major new version of the framework. … In many ways, it is a new framework because it make fundamental changes to how business logic is interfaced with the framework.</p>\n</blockquote>\n\n<p>Maybe this has something to do with the number of users who haven’t upgraded? (We use Hapi at work and currently sponsor the project; after looking at v17, I can’t imagine why we’d invest the time to upgrade to what is effectively a different framework.)</p>\n",
+			"date_published": "2018-09-24T10:23:07-07:00",
+			"url": "http://status.yergler.net/2018/09/24/open-source-maintainer.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/09/24/but-look-the.html",
 	      	
 			"content_html": "<blockquote>\n  <p>“But, look: the world is a nightmarish hellscape of unending despair, and so the hill I have decided to plant my flag on is this tiny bit of sanity, where common sense might make fractional headway against the rote devotion to no-longer-relevant rules.”</p>\n</blockquote>\n\n<p>– <a href=\"http://www.eod.com/blog/2018/09/rejected/\">Rejected</a></p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>Austin Kleon’s advice about <a href=\"https://austinkleon.com/2018/07/05/you-dont-have-to-live-in-public/\">living in public</a> seems like an endorsement of Indie* principles, coming from the angle of creator/artist.</p>\n",
 			"date_published": "2018-07-06T09:28:41-07:00",
 			"url": "http://status.yergler.net/2018/07/06/austin-kleons-advice.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/07/05/nostalgia.html",
-	      	
-			"content_html": "<p><a href=\"https://www.yergler.net/2018/07/04/nostalgia/\">Nostalgia</a></p>\n",
-			"date_published": "2018-07-04T18:45:40-07:00",
-			"url": "http://status.yergler.net/2018/07/04/nostalgia.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/07/03/currently-reading-k.html",
-	      	
-			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316316804\">84K</a> by Claire North, ISBN: 9780316316804 📚</p>\n",
-			"date_published": "2018-07-03T07:10:20-07:00",
-			"url": "http://status.yergler.net/2018/07/03/currently-reading-k.html"
 		}
 		
 	]
