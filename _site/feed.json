@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/29/friday-evening.html",
+	      	
+			"content_html": "<p><a href=\"http://status.yergler.net/uploads/2018/63ab45d6f5.jpg\"><img src=\"http://status.yergler.net/uploads/2018/63ab45d6f5.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Friday evening.</p>\n\n",
+			"date_published": "2018-09-28T19:02:03-07:00",
+			"url": "http://status.yergler.net/2018/09/28/friday-evening.html"
+		},
+		
+		{
 			"id": "http://nnnnnathan.micro.blog/2018/09/27/good-morning.html",
 	      	
 			"content_html": "<p><a href=\"http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg\"><img src=\"http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good morning.</p>\n\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Do replies get handled differently than regular posts somehow? Noticing that two replies I wrote on the mac app in the last week don’t show up on the web. /cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
 			"date_published": "2018-07-12T11:51:21-07:00",
 			"url": "http://status.yergler.net/2018/07/12/do-replies-get.html"
-		},
-		
-		{
-			"id": "http://nnnnnathan.micro.blog/2018/07/09/it-seems-like.html",
-	      	
-			"content_html": "<p>It seems like micro.blog’s IndieAuth doesn’t support custom domains; can’t help wondering if there’s a [long term] risk there using it to sign in to something like IndiePaper since I don’t have control over the domain.</p>\n",
-			"date_published": "2018-07-09T09:09:02-07:00",
-			"url": "http://status.yergler.net/2018/07/09/it-seems-like.html"
 		}
 		
 	]
