@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 10:23:07 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/24/open-source-maintainer.html
 ---
