@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-27 13:06:36 -0700
 guid: http://nnnnnathan.micro.blog/2018/10/27/ive-been-playing.html
 ---
