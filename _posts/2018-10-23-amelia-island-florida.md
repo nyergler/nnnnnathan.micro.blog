@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/cfcfeeff31.jpg
 date: 2018-10-23 06:38:07 -0700
 guid: http://nnnnnathan.micro.blog/2018/10/23/amelia-island-florida.html
 ---
