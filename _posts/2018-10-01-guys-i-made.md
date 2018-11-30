@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/d98198d7e5.jpg
 date: 2018-09-30 21:26:12 -0700
 guid: http://nnnnnathan.micro.blog/2018/10/01/guys-i-made.html
 ---
