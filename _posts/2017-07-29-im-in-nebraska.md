@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg
 date: 2017-07-28 19:30:08 -0700
 guid: http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html
 ---
