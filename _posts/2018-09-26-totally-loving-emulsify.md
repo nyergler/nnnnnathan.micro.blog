@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/5d53173f20.jpg
 date: 2018-09-25 19:50:19 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/26/totally-loving-emulsify.html
 ---
