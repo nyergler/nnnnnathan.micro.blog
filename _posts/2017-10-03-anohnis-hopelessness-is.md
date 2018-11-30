@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-03 10:44:14 -0700
 guid: http://nnnnnathan.micro.blog/2017/10/03/anohnis-hopelessness-is.html
 ---
