@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-29 11:07:26 -0700
 guid: http://nnnnnathan.micro.blog/2018/05/29/happy-to-work.html
 ---
