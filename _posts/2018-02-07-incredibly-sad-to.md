@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-07 15:54:56 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/07/incredibly-sad-to.html
 ---
