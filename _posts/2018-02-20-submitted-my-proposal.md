@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/0410353e16.jpg
 date: 2018-02-20 10:06:51 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/20/submitted-my-proposal.html
 ---
