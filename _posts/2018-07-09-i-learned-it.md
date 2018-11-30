@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-09 08:56:12 -0700
 guid: http://nnnnnathan.micro.blog/2018/07/09/i-learned-it.html
 ---
