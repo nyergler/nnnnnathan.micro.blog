@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg
 date: 2018-09-27 07:10:04 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/27/good-morning.html
 ---
