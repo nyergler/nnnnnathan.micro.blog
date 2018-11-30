@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/5be4c060f6.jpg
 date: 2018-09-23 22:00:58 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/24/finally-finished-my.html
 ---
