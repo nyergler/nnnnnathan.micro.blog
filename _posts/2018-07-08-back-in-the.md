@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/8ce50eb6ab.jpg
 date: 2018-07-07 22:00:04 -0700
 guid: http://nnnnnathan.micro.blog/2018/07/08/back-in-the.html
 ---
