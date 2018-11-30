@@ -3,6 +3,7 @@ layout: post
 title: "Silent Retreat 2018"
 microblog: false
 audio: 
+photo: http://status.yergler.net/uploads/2018/d6b54a56c5.jpg
 date: 2018-02-05 09:43:20 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/05/silent-retreat.html
 ---
