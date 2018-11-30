@@ -3,6 +3,7 @@ layout: post
 title: "An Afternoon With Rauschenberg"
 microblog: false
 audio: 
+photo: http://status.yergler.net/uploads/2018/165da34379.jpg
 date: 2018-01-24 15:35:42 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/24/an-afternoon-with.html
 ---
