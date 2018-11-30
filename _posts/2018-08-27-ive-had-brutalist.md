@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-27 09:15:34 -0700
 guid: http://nnnnnathan.micro.blog/2018/08/27/ive-had-brutalist.html
 ---
