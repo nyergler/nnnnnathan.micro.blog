@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 07:34:39 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/26/san-francisco-hosts.html
 ---
