@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 07:10:20 -0700
 guid: http://nnnnnathan.micro.blog/2018/07/03/currently-reading-k.html
 ---
