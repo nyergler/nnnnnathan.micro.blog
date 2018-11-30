@@ -3,6 +3,7 @@ layout: post
 title: "Weekend In Napa"
 microblog: false
 audio: 
+photo: http://status.yergler.net/uploads/2018/70392b90c7.jpg
 date: 2018-02-18 13:25:45 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/18/weekend-in-napa.html
 ---
