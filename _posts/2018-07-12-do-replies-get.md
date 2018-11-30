@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-12 11:51:21 -0700
 guid: http://nnnnnathan.micro.blog/2018/07/12/do-replies-get.html
 ---
