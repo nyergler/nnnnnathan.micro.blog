@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2017/163d5ecf3e.jpg
 date: 2017-08-14 18:30:40 -0700
 guid: http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html
 ---
