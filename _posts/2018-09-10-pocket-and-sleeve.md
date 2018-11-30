@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/ed26fb4f3e.jpg
 date: 2018-09-10 06:47:02 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/10/pocket-and-sleeve.html
 ---
