@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 09:44:39 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/24/but-look-the.html
 ---
