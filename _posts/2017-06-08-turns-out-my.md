@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-08 16:45:40 -0700
 guid: http://nnnnnathan.micro.blog/2017/06/08/turns-out-my.html
 ---
