@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://status.yergler.net/uploads/2018/6aec4a5e85.jpg
 date: 2018-08-18 23:25:50 -0700
 guid: http://nnnnnathan.micro.blog/2018/08/19/amazing-erasure-show.html
 ---
