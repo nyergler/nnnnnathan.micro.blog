@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-14 14:33:57 -0700
 guid: http://nnnnnathan.micro.blog/2017/08/14/ulysses-is-my.html
 ---
