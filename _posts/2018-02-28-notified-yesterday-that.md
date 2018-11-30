@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-28 11:34:36 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/28/notified-yesterday-that.html
 ---
