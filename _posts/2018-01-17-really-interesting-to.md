@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-17 09:55:46 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/17/really-interesting-to.html
 ---
