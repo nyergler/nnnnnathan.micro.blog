@@ -3,6 +3,7 @@ layout: post
 title: "Printing With The Xcut Xpress"
 microblog: false
 audio: 
+photo: http://status.yergler.net/uploads/2018/56aa841d00.jpg
 date: 2018-03-18 19:35:41 -0700
 guid: http://nnnnnathan.micro.blog/2018/03/19/printing-with-the.html
 ---
