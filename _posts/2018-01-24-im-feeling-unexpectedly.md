@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-23 17:49:34 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/24/im-feeling-unexpectedly.html
 ---
