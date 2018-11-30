@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 09:18:00 -0700
 guid: http://nnnnnathan.micro.blog/2018/05/07/two-weeks-in.html
 ---
