@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-19 10:31:03 -0700
 guid: http://nnnnnathan.micro.blog/2018/01/19/just-read-the.html
 ---
