@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-26 04:59:50 -0700
 guid: http://nnnnnathan.micro.blog/2017/07/26/first-day-of.html
 ---
