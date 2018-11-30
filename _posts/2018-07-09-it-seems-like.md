@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-09 09:09:02 -0700
 guid: http://nnnnnathan.micro.blog/2018/07/09/it-seems-like.html
 ---
