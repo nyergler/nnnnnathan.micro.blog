@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-22 11:27:23 -0700
 guid: http://nnnnnathan.micro.blog/2018/03/22/reading-about-pythons.html
 ---
