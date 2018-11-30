@@ -3,6 +3,7 @@ layout: post
 title: "Zero Books, Zero Tools"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-05 07:50:19 -0700
 guid: http://nnnnnathan.micro.blog/2018/09/05/zero-books-zero.html
 ---
