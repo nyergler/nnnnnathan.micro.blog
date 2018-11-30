@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-31 09:28:56 -0700
 guid: http://nnnnnathan.micro.blog/2017/05/31/deja-vu-last.html
 ---
