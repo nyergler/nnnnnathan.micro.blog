@@ -1,0 +1,372 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "@nnnnnathan",
+	"icon": "https://micro.blog/nnnnnathan/avatar.jpg",
+	"home_page_url": "http://status.yergler.net/",
+	"feed_url": "http://status.yergler.net/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/11/25/i-made-us.html",
+			
+			"content_text": "<p>I made us Christmas stockings: two for humans, one for a cat. #imadethis #oaklandsews</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/16e0d7b28f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-24T19:54:54-08:00",
+			"url": "http://status.yergler.net/2018/11/24/i-made-us.html",
+			"image": "http://status.yergler.net/uploads/2018/16e0d7b28f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/16e0d7b28f.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/10/23/amelia-island-florida.html",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/cfcfeeff31.jpg\"><img src=\"http://status.yergler.net/uploads/2018/cfcfeeff31.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Amelia Island, Florida</p>\n\n",
+			"date_published": "2018-10-23T06:38:07-07:00",
+			"url": "http://status.yergler.net/2018/10/23/amelia-island-florida.html",
+			"image": "http://status.yergler.net/uploads/2018/cfcfeeff31.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/cfcfeeff31.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/10/01/guys-i-made.html",
+			
+			"content_text": "<p>Guys! I made shorts! Half off pink print corduroy from upstairs at @stonemountainfabric? Yes, please! #oaklandsews #sewqueer #justintimeforfolsom #imadethis</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/3c6b2d8e7e.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/9c89e2fa7a.jpg\" width=\"600\" height=\"599\" /><img src=\"http://status.yergler.net/uploads/2018/d98198d7e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-30T21:26:12-07:00",
+			"url": "http://status.yergler.net/2018/09/30/guys-i-made.html",
+			"image": "http://status.yergler.net/uploads/2018/d98198d7e5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/d98198d7e5.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/29/friday-evening.html",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/63ab45d6f5.jpg\"><img src=\"http://status.yergler.net/uploads/2018/63ab45d6f5.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Friday evening.</p>\n\n",
+			"date_published": "2018-09-28T19:02:03-07:00",
+			"url": "http://status.yergler.net/2018/09/28/friday-evening.html",
+			"image": "http://status.yergler.net/uploads/2018/63ab45d6f5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/63ab45d6f5.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/27/good-morning.html",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg\"><img src=\"http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good morning.</p>\n\n",
+			"date_published": "2018-09-27T07:10:04-07:00",
+			"url": "http://status.yergler.net/2018/09/27/good-morning.html",
+			"image": "http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/fa6cc84fb9.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/26/commuting-emulsify.html",
+			
+			"content_text": "<p>Commuting #emulsify</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/b72712d989.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-26T08:43:24-07:00",
+			"url": "http://status.yergler.net/2018/09/26/commuting-emulsify.html",
+			"image": "http://status.yergler.net/uploads/2018/b72712d989.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/b72712d989.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/26/i-love-the.html",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/1aadd65aa2.jpg\"><img src=\"http://status.yergler.net/uploads/2018/1aadd65aa2.jpg\" width=\"277\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I love the Leif Erikson candy bar, <a href=\"https://micro.blog/aaronpk\">@aaronpk</a>! 😂 (As seen in #Sunlit)</p>\n\n",
+			"date_published": "2018-09-26T08:41:44-07:00",
+			"url": "http://status.yergler.net/2018/09/26/i-love-the.html",
+			"image": "http://status.yergler.net/uploads/2018/1aadd65aa2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/1aadd65aa2.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/26/totally-loving-emulsify.html",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/5d53173f20.jpg\"><img src=\"http://status.yergler.net/uploads/2018/5d53173f20.jpg\" width=\"600\" height=\"525\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Totally loving Emulsify. Reminds me of shooting Tri-X film with my old Pentax in college.</p>\n\n",
+			"date_published": "2018-09-25T19:50:19-07:00",
+			"url": "http://status.yergler.net/2018/09/25/totally-loving-emulsify.html",
+			"image": "http://status.yergler.net/uploads/2018/5d53173f20.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/5d53173f20.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/24/finally-finished-my.html",
+			
+			"content_text": "<p>Finally finished my 👕. This light, woven shirting from @britexfabrics  has a lovely, soft hand, but it was sort of a pain to work with. I think I’ll stick to tighter weaves in the future. 🤷🏻‍♂️ On to the next project. \n#sewing #imadethis #sewqueer #oaklandsews</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/794c8c1387.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/47b5b96136.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/5be4c060f6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-23T22:00:58-07:00",
+			"url": "http://status.yergler.net/2018/09/23/finally-finished-my.html",
+			"image": "http://status.yergler.net/uploads/2018/5be4c060f6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/5be4c060f6.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/10/pocket-and-sleeve.html",
+			
+			"content_text": "<p>Pocket and sleeve plackets installed, ready to start assembling my next shirt. Love this tiny stripe, but the super soft fabric is harder to work with. Learning something, that’s for sure.</p>\n\n<p>PS: yes, I already fixed the stitching on the pocket bottom, just too lazy to take another photo.</p>\n\n<p>#oaklandsews #sewing #babylock #memade #lewqlewq</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/ed26fb4f3e.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-10T06:47:02-07:00",
+			"url": "http://status.yergler.net/2018/09/10/pocket-and-sleeve.html",
+			"image": "http://status.yergler.net/uploads/2018/ed26fb4f3e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/ed26fb4f3e.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/04/my-sewing-helper.html",
+			
+			"content_text": "<p>My sewing helper. #jorge</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/09628fd335.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-03T21:27:25-07:00",
+			"url": "http://status.yergler.net/2018/09/03/my-sewing-helper.html",
+			"image": "http://status.yergler.net/uploads/2018/09628fd335.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/09628fd335.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/09/04/i-made-pie.html",
+			
+			"content_text": "<p>I made pie.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/398e3959ef.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/b745b825fc.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-03T21:25:54-07:00",
+			"url": "http://status.yergler.net/2018/09/03/i-made-pie.html",
+			"image": "http://status.yergler.net/uploads/2018/b745b825fc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/b745b825fc.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/08/19/do-we-not.html",
+			
+			"content_text": "<p>Do we not sail on a ship of fools? #erasure</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/0344b45e6f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T23:27:51-07:00",
+			"url": "http://status.yergler.net/2018/08/18/do-we-not.html",
+			"image": "http://status.yergler.net/uploads/2018/0344b45e6f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/0344b45e6f.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/08/19/amazing-erasure-show.html",
+			
+			"content_text": "<p>Amazing Erasure show tonight with a great group of friends. Tonight I am living for Andy Bell in a skirt and Mary Janes.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/189537ecda.jpg\" width=\"600\" height=\"600\" /><img src=\"http://status.yergler.net/uploads/2018/6aec4a5e85.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T23:25:50-07:00",
+			"url": "http://status.yergler.net/2018/08/18/amazing-erasure-show.html",
+			"image": "http://status.yergler.net/uploads/2018/6aec4a5e85.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/6aec4a5e85.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/08/14/this-job-sucks.html",
+			
+			"content_text": "<p>This job sucks.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/c77a06a228.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-14T15:49:07-07:00",
+			"url": "http://status.yergler.net/2018/08/14/this-job-sucks.html",
+			"image": "http://status.yergler.net/uploads/2018/c77a06a228.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/c77a06a228.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/30/curiosity.html",
+			
+			"content_text": "<p>Curiosity.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/5be05a8cb0.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-30T07:22:45-07:00",
+			"url": "http://status.yergler.net/2018/07/30/curiosity.html",
+			"image": "http://status.yergler.net/uploads/2018/5be05a8cb0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/5be05a8cb0.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/24/a-week-of.html",
+			
+			"title": "A Week Of Printmaking",
+			
+			"content_text": "<p>Making Art Safely</p>\n\n<p><a href=\"http://status.yergler.net/uploads/2018/6fbd4d4b62.jpg\"><img src=\"http://status.yergler.net/uploads/2018/6fbd4d4b62.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/ebfd5c62a8.jpg\"><img src=\"http://status.yergler.net/uploads/2018/ebfd5c62a8.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Making Art Safely hosts printmaking and other art workshops, with a focus on water conservation and artist safety. No hands in heavy metal tinted litho inks, for example. The studio is surrounded by trees on the outskirts of Santa Fe. <br /><br />Twiggy the studio dog welcomes all.</p>\n\n<p>Mokuhanga</p>\n\n<p><a href=\"http://status.yergler.net/uploads/2018/9b4c198e5f.jpg\"><img src=\"http://status.yergler.net/uploads/2018/9b4c198e5f.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/6fafe0f6fa.jpg\"><img src=\"http://status.yergler.net/uploads/2018/6fafe0f6fa.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/7fff4e15c7.jpg\"><img src=\"http://status.yergler.net/uploads/2018/7fff4e15c7.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/b96eda68c7.jpg\"><img src=\"http://status.yergler.net/uploads/2018/b96eda68c7.jpg\" width=\"439\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Japanese wood block print making is known as mokuhanga. I spent the past week in Santa Fe learning about it from Annie Bissett. <br /><br />Registration is handled by the kento: a notch in the corner and a notch along the side.</p>\n\n<p>Guernsey</p>\n\n<p><a href=\"http://status.yergler.net/uploads/2018/b9cd3634b3.jpg\"><img src=\"http://status.yergler.net/uploads/2018/b9cd3634b3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>In 2016 I visited Guernsey, an island in the English Channel. I fell in love with the vegetation, the stairs, the hills, and the pallette. This is one of the photos I took while I was there.</p>\n\n<p>Results</p>\n\n<p><a href=\"http://status.yergler.net/uploads/2018/7d84964dff.jpg\"><img src=\"http://status.yergler.net/uploads/2018/7d84964dff.jpg\" width=\"486\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/203e2c1e95.jpg\"><img src=\"http://status.yergler.net/uploads/2018/203e2c1e95.jpg\" width=\"452\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/e2d37002af.jpg\"><img src=\"http://status.yergler.net/uploads/2018/e2d37002af.jpg\" width=\"467\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I worked in small “mini-editions” of 3-5 prints each to experiment with inking, colors, and layering. These are three of my favorite results.</p>\n\n",
+			"date_published": "2018-07-24T08:17:07-07:00",
+			"url": "http://status.yergler.net/2018/07/24/a-week-of.html",
+			"image": "http://status.yergler.net/uploads/2018/e2d37002af.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/e2d37002af.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/24/art-critic-kitteh.html",
+			
+			"content_text": "<p>Art critic kitteh.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/435aa3c236.jpg\" width=\"597\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-23T19:33:40-07:00",
+			"url": "http://status.yergler.net/2018/07/23/art-critic-kitteh.html",
+			"image": "http://status.yergler.net/uploads/2018/435aa3c236.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/435aa3c236.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/22/someone-is-in.html",
+			
+			"content_text": "<p>Someone is in kitty jail.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/0637b308eb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-22T07:54:39-07:00",
+			"url": "http://status.yergler.net/2018/07/22/someone-is-in.html",
+			"image": "http://status.yergler.net/uploads/2018/0637b308eb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/0637b308eb.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/08/sunday-breakfast-for.html",
+			
+			"content_text": "<p>Sunday breakfast for two.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/06f92bf779.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-08T09:32:25-07:00",
+			"url": "http://status.yergler.net/2018/07/08/sunday-breakfast-for.html",
+			"image": "http://status.yergler.net/uploads/2018/06f92bf779.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/06f92bf779.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/07/08/back-in-the.html",
+			
+			"content_text": "<p>Back in the studio today, printing little cards with our little house on them. #linocut #printmaking #relief #imadethis</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/8ce50eb6ab.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-07-07T22:00:04-07:00",
+			"url": "http://status.yergler.net/2018/07/07/back-in-the.html",
+			"image": "http://status.yergler.net/uploads/2018/8ce50eb6ab.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/8ce50eb6ab.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/03/19/printing-with-the.html",
+			
+			"title": "Printing With The Xcut Xpress",
+			
+			"content_text": "<p><a href=\"http://status.yergler.net/uploads/2018/ac34dde6b1.jpg\"><img src=\"http://status.yergler.net/uploads/2018/ac34dde6b1.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://status.yergler.net/uploads/2018/56aa841d00.jpg\"><img src=\"http://status.yergler.net/uploads/2018/56aa841d00.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>The Xcut Xpress is a die cutting and embossing machine for crafters. It’s also a passable etching press. Need to get some felts but pretty pleased with the first result.</p>\n",
+			"date_published": "2018-03-18T19:35:41-07:00",
+			"url": "http://status.yergler.net/2018/03/18/printing-with-the.html",
+			"image": "http://status.yergler.net/uploads/2018/56aa841d00.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/56aa841d00.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/20/submitted-my-proposal.html",
+			
+			"content_text": "<p>Submitted my proposal for Big Ink at the last minute last night. If selected I’ll be turning this into a 40” x 30” Woodcut print.</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2018/0410353e16.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-20T09:06:51-08:00",
+			"url": "http://status.yergler.net/2018/02/20/submitted-my-proposal.html",
+			"image": "http://status.yergler.net/uploads/2018/0410353e16.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/0410353e16.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/18/weekend-in-napa.html",
+			
+			"title": "Weekend In Napa",
+			
+			"content_text": "<p><img src=\"http://status.yergler.net/uploads/2018/f5d0fb4d0b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/dd8b370932.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/1ad9959e95.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/e27109812d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/70392b90c7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></p>\n\n<p>Sweet weekend away in Napa County. Couldn’t ask for better weather.</p>\n\n",
+			"date_published": "2018-02-18T12:25:45-08:00",
+			"url": "http://status.yergler.net/2018/02/18/weekend-in-napa.html",
+			"image": "http://status.yergler.net/uploads/2018/70392b90c7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/70392b90c7.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/02/05/silent-retreat.html",
+			
+			"title": "Silent Retreat 2018",
+			
+			"content_text": "<p><img src=\"http://status.yergler.net/uploads/2018/f5458dcc63.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/0350239bc0.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/ebe4f02fd8.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/2b8405412f.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/e1d98ed1df.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/eba198c9ec.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/96f8b3e2d2.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /><img src=\"http://status.yergler.net/uploads/2018/d6b54a56c5.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></p>\n\n<p>I spent the weekend in silence at Four Springs retreat center with 19 other members of my spiritual community. As always a sweet, challenging time of disconnection, reflection, nature, and art.</p>\n\n",
+			"date_published": "2018-02-05T08:43:20-08:00",
+			"url": "http://status.yergler.net/2018/02/05/silent-retreat.html",
+			"image": "http://status.yergler.net/uploads/2018/d6b54a56c5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/d6b54a56c5.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2018/01/24/an-afternoon-with.html",
+			
+			"title": "An Afternoon With Rauschenberg",
+			
+			"content_text": "<p><img src=\"http://status.yergler.net/uploads/2018/fc7fd28bfd.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/da4aa1410b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/aa289f6b3e.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://status.yergler.net/uploads/2018/165da34379.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Photos from an afternoon wandering the Rauschenberg exhibit at SFMOMA.</p>\n\n",
+			"date_published": "2018-01-24T14:35:42-08:00",
+			"url": "http://status.yergler.net/2018/01/24/an-afternoon-with.html",
+			"image": "http://status.yergler.net/uploads/2018/165da34379.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2018/165da34379.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/09/24/163632.html",
+			
+			"content_text": "<p>🌯👶🏻</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2017/f47d30b953.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-24T09:36:32-07:00",
+			"url": "http://status.yergler.net/2017/09/24/163632.html",
+			"image": "http://status.yergler.net/uploads/2017/f47d30b953.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2017/f47d30b953.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/08/15/work-in-progress.html",
+			
+			"content_text": "<p>Work in progress from the studio this weekend, homage to Matisse’s “Seated Pink Nude”. Reduction linocut print with selective inking. Hoping to get it finished this week! \nLoving the Van Dyke Brown in the background and Rubinius Red; a little Payne’s Gray and we’ll have all my faves. \n#wip #linocut #printmaking #relief #matisse #color #layering</p>\n\n<p><img src=\"http://status.yergler.net/uploads/2017/163d5ecf3e.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-14T18:30:40-07:00",
+			"url": "http://status.yergler.net/2017/08/14/work-in-progress.html",
+			"image": "http://status.yergler.net/uploads/2017/163d5ecf3e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://status.yergler.net/uploads/2017/163d5ecf3e.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/31/second-print-from.html",
+			
+			"content_text": "<p>Second print from my time at  @constellationstudios this week. Two block reduction woodcut. I’m beat and content from five days of printmaking. #relief #printmaking #woodcut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/f748a065e0.jpg\" width=\"600\" height=\"512\" /></p>\n",
+			"date_published": "2017-07-30T19:27:27-07:00",
+			"url": "http://status.yergler.net/2017/07/30/second-print-from.html",
+			"image": "http://nnnnnathan.micro.blog/uploads/2017/f748a065e0.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://nnnnnathan.micro.blog/uploads/2017/f748a065e0.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/29/im-in-nebraska.html",
+			
+			"content_text": "<p>I’m in Nebraska this week participating in the Color Woodcut Printmaking at @constellationstudios today. I finished my first project today. Pretty pleased with the overall result, especially since I don’t normally do abstract. Thanks to @robsnyderorigami  for the crease pattern that formed the foundation for this piece. #printmaking #relief #foldandprint #woodcut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2017-07-28T19:30:08-07:00",
+			"url": "http://status.yergler.net/2017/07/28/im-in-nebraska.html",
+			"image": "http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://nnnnnathan.micro.blog/uploads/2017/f71605627f.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/some-more-practice.html",
+			
+			"content_text": "<p>Some more practice from this weekend. #printmaking #relief #linocut</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/96e71c2ded.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-07-26T05:10:09-07:00",
+			"url": "http://status.yergler.net/2017/07/26/some-more-practice.html",
+			"image": "http://nnnnnathan.micro.blog/uploads/2017/96e71c2ded.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://nnnnnathan.micro.blog/uploads/2017/96e71c2ded.jpg"
+			}
+		},
+		{
+			"id": "http://nnnnnathan.micro.blog/2017/07/26/jorge-knows-reading.html",
+			
+			"content_text": "<p>Jorge knows reading is fundamental.</p>\n\n<p><img src=\"http://nnnnnathan.micro.blog/uploads/2017/6890e870f2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-07-26T05:07:37-07:00",
+			"url": "http://status.yergler.net/2017/07/26/jorge-knows-reading.html",
+			"image": "http://nnnnnathan.micro.blog/uploads/2017/6890e870f2.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://nnnnnathan.micro.blog/uploads/2017/6890e870f2.jpg"
+			}
+		}
+	]
+}
