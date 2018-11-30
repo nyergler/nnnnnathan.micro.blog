@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-01 17:45:08 -0700
 guid: http://nnnnnathan.micro.blog/2018/02/02/awesome-seeing-wxpython.html
 ---
